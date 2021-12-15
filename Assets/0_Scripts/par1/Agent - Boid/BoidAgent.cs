@@ -68,10 +68,6 @@ public class BoidAgent : MonoBehaviour
             Vector3 desired = seekTarget.transform.position - transform.position;
             if (desired.magnitude < arriveRadius)
             {
-                if (desired.magnitude < eatRadius)
-                {
-                    EventManager.Trigger("DisablePreviousFood");
-                }
                 float speed = maxSpeed * (desired.magnitude / arriveRadius);
                 desired.Normalize();
                 desired *= speed;

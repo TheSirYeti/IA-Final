@@ -14,9 +14,9 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/Assets/0_Scripts/Soldiers/SoldierLogic.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/0_Scripts/Soldiers/SoldierManager.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/0_Scripts/Soldiers/Pathfinder.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$USER_HOME$/AppData/Local/Temp/Rar$DIa18160.38516/Pathfinding.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/0_Scripts/MovementScreen/ObstacleMovement.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/0_Scripts/AI/NodeManager.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/0_Scripts/Soldiers/Leader.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
@@ -68,6 +68,11 @@
       <updated>1639162814343</updated>
       <workItem from="1639162847908" duration="738000" />
       <workItem from="1639253329078" duration="10342000" />
+      <workItem from="1639334812130" duration="13310000" />
+      <workItem from="1639418163550" duration="6720000" />
+      <workItem from="1639433811140" duration="4717000" />
+      <workItem from="1639451658417" duration="5710000" />
+      <workItem from="1639499145303" duration="19664000" />
     </task>
     <servers />
   </component>

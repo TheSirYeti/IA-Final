@@ -4,24 +4,29 @@ using UnityEngine;
 
 public class Pathfinder : MonoBehaviour
 {
-
+    public bool isPathfinding;
+    public List<Node> nodePath;
+    public int currentNode;
+    public float speed;
+    public Vector3 velocity;
     public List<Node> ConstructPathThetaStar(Node startingNode, Node goalNode)
     {
         var path = ConstructPathAStar(startingNode, goalNode);
-        path.Reverse();
-
-        int index = 0;
-
-        while (index <= path.Count - 1)
+        if (path != null)
         {
-            int indexNextNext = index + 2;
-            if (indexNextNext > path.Count - 1) break;
-            if (InSight(path[index].transform.position, path[indexNextNext].transform.position))
-                path.Remove(path[index + 1]);
-            else index++;
+            path.Reverse();
+            int index = 0;
 
+            while (index <= path.Count - 1)
+            {
+                int indexNextNext = index + 2;
+                if (indexNextNext > path.Count - 1) break;
+                if (InSight(path[index].transform.position, path[indexNextNext].transform.position))
+                    path.Remove(path[index + 1]);
+                else index++;
+
+            }
         }
-
         return path;
     }
     bool InSight(Vector3 start, Vector3 end)
@@ -33,13 +38,15 @@ public class Pathfinder : MonoBehaviour
 
     public List<Node> ConstructPathAStar(Node startingNode, Node goalNode)
     {
-        if (startingNode == null || goalNode == null) return default;
+        if (startingNode == null || goalNode == null)
+            return default;
 
         PriorityQueue frontier = new PriorityQueue();
         frontier.Put(startingNode, 0);
 
         Dictionary<Node, Node> cameFrom = new Dictionary<Node, Node>();
         Dictionary<Node, int> costSoFar = new Dictionary<Node, int>();
+
         cameFrom.Add(startingNode, null);
         costSoFar.Add(startingNode, 0);
 
@@ -51,32 +58,35 @@ public class Pathfinder : MonoBehaviour
             {
                 List<Node> path = new List<Node>();
                 Node nodeToAdd = current;
+
                 while (nodeToAdd != null)
                 {
                     path.Add(nodeToAdd);
                     nodeToAdd = cameFrom[nodeToAdd];
                 }
-                //path.Reverse();
+
                 return path;
             }
 
             foreach (var next in current.GetNeighbors())
             {
-                if (next.blocked) continue;
                 int newCost = costSoFar[current] + next.cost;
-                //Lo unico que cambia es la priority del frontier que le sumamos la heuristica
-                float priority = newCost + Heuristic(next.transform.position, goalNode.transform.position);
-                if (!costSoFar.ContainsKey(next))
+
+                if (!costSoFar.ContainsKey(next) || newCost < costSoFar[next])
                 {
+                    if (costSoFar.ContainsKey(next))
+                    {
+                        costSoFar[next] = newCost;
+                        cameFrom[next] = current;
+                    }
+                    else
+                    {
+                        cameFrom.Add(next, current);
+                        costSoFar.Add(next, newCost);
+                    }
+
+                    float priority = newCost + Heuristic(next.transform.position, goalNode.transform.position);
                     frontier.Put(next, priority);
-                    costSoFar.Add(next, newCost);
-                    cameFrom.Add(next, current);
-                }
-                else if (costSoFar.ContainsKey(next) && newCost < costSoFar[next])
-                {
-                    frontier.Put(next, priority);
-                    costSoFar[next] = newCost;
-                    cameFrom[next] = current;
                 }
             }
         }
@@ -86,5 +96,26 @@ public class Pathfinder : MonoBehaviour
     float Heuristic(Vector3 a, Vector3 b)
     {
         return Vector3.Distance(a, b);
+    }
+
+    public void FollowPath()
+    {
+        Vector3 direction;
+        if (isPathfinding && nodePath != null)
+        {
+            direction = nodePath[currentNode].transform.position - transform.position;
+            transform.forward = direction;
+            transform.position += transform.forward * speed * Time.fixedDeltaTime;
+            
+            if (direction.magnitude <= 0.1f)
+            {
+                currentNode++;
+                if (currentNode >= nodePath.Count)
+                {
+                    currentNode = 0;
+                    isPathfinding = false;
+                }
+            }
+        }
     }
 }

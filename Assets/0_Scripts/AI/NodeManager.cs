@@ -23,10 +23,11 @@ public class NodeManager : MonoBehaviour
     {
         int index = -1;
         float minDistance = Mathf.Infinity;
-        for (int i = 0; i <= nodes.Count; i++)
+        for (int i = 0; i < nodes.Count; i++)
         {
             float distance = Vector3.Distance(t.position, nodes[i].transform.position);
-            if (distance <= minDistance)
+            Vector3 dirToTarget = nodes[i].transform.position - t.position;
+            if (distance <= minDistance && !Physics.Raycast(transform.position, dirToTarget, dirToTarget.magnitude, wallMask))
             {
                 index = i;
                 minDistance = distance;
