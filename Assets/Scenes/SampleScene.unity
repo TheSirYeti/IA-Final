@@ -164,9 +164,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   viewRadius: 3
-  _neighbors: []
+  neighbors: []
   cost: 1
-  blocked: 0
 --- !u!1 &3017893
 GameObject:
   m_ObjectHideFlags: 0
@@ -211,9 +210,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   viewRadius: 3
-  _neighbors: []
+  neighbors: []
   cost: 1
-  blocked: 0
 --- !u!1 &4584971
 GameObject:
   m_ObjectHideFlags: 0
@@ -258,9 +256,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   viewRadius: 3
-  _neighbors: []
+  neighbors: []
   cost: 1
-  blocked: 0
 --- !u!1 &6543409
 GameObject:
   m_ObjectHideFlags: 0
@@ -305,9 +302,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   viewRadius: 3
-  _neighbors: []
+  neighbors: []
   cost: 1
-  blocked: 0
 --- !u!1 &11372692
 GameObject:
   m_ObjectHideFlags: 0
@@ -352,9 +348,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   viewRadius: 3
-  _neighbors: []
+  neighbors: []
   cost: 1
-  blocked: 0
 --- !u!1 &15518629
 GameObject:
   m_ObjectHideFlags: 0
@@ -399,9 +394,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   viewRadius: 3
-  _neighbors: []
+  neighbors: []
   cost: 1
-  blocked: 0
 --- !u!1 &19757928
 GameObject:
   m_ObjectHideFlags: 0
@@ -446,9 +440,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   viewRadius: 3
-  _neighbors: []
+  neighbors: []
   cost: 1
-  blocked: 0
 --- !u!1 &21871119
 GameObject:
   m_ObjectHideFlags: 0
@@ -493,9 +486,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   viewRadius: 3
-  _neighbors: []
+  neighbors: []
   cost: 1
-  blocked: 0
 --- !u!1 &24065515
 GameObject:
   m_ObjectHideFlags: 0
@@ -540,9 +532,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   viewRadius: 3
-  _neighbors: []
+  neighbors: []
   cost: 1
-  blocked: 0
 --- !u!1 &41685926
 GameObject:
   m_ObjectHideFlags: 0
@@ -587,9 +578,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   viewRadius: 3
-  _neighbors: []
+  neighbors: []
   cost: 1
-  blocked: 0
 --- !u!1 &42932673
 GameObject:
   m_ObjectHideFlags: 0
@@ -725,9 +715,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   viewRadius: 3
-  _neighbors: []
+  neighbors: []
   cost: 1
-  blocked: 0
 --- !u!1 &49720362
 GameObject:
   m_ObjectHideFlags: 0
@@ -772,9 +761,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   viewRadius: 3
-  _neighbors: []
+  neighbors: []
   cost: 1
-  blocked: 0
 --- !u!1 &53335731
 GameObject:
   m_ObjectHideFlags: 0
@@ -819,9 +807,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   viewRadius: 3
-  _neighbors: []
+  neighbors: []
   cost: 1
-  blocked: 0
 --- !u!1 &53461737
 GameObject:
   m_ObjectHideFlags: 0
@@ -866,9 +853,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   viewRadius: 3
-  _neighbors: []
+  neighbors: []
   cost: 1
-  blocked: 0
 --- !u!1 &55122094
 GameObject:
   m_ObjectHideFlags: 0
@@ -913,9 +899,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   viewRadius: 3
-  _neighbors: []
+  neighbors: []
   cost: 1
-  blocked: 0
 --- !u!1 &56151107
 GameObject:
   m_ObjectHideFlags: 0
@@ -960,9 +945,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   viewRadius: 3
-  _neighbors: []
+  neighbors: []
   cost: 1
-  blocked: 0
 --- !u!1 &56622480
 GameObject:
   m_ObjectHideFlags: 0
@@ -1007,9 +991,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   viewRadius: 3
-  _neighbors: []
+  neighbors: []
   cost: 1
-  blocked: 0
 --- !u!1 &56765045
 GameObject:
   m_ObjectHideFlags: 0
@@ -1054,9 +1037,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   viewRadius: 3
-  _neighbors: []
+  neighbors: []
   cost: 1
-  blocked: 0
 --- !u!1 &57009843
 GameObject:
   m_ObjectHideFlags: 0
@@ -1101,9 +1083,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   viewRadius: 3
-  _neighbors: []
+  neighbors: []
   cost: 1
-  blocked: 0
 --- !u!1 &64944132
 GameObject:
   m_ObjectHideFlags: 0
@@ -1148,9 +1129,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   viewRadius: 3
-  _neighbors: []
+  neighbors: []
   cost: 1
-  blocked: 0
 --- !u!1 &69693523
 GameObject:
   m_ObjectHideFlags: 0
@@ -1195,9 +1175,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   viewRadius: 3
-  _neighbors: []
+  neighbors: []
   cost: 1
-  blocked: 0
 --- !u!1 &70294904
 GameObject:
   m_ObjectHideFlags: 0
@@ -1242,9 +1221,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   viewRadius: 3
-  _neighbors: []
+  neighbors: []
   cost: 1
-  blocked: 0
 --- !u!1 &74788412
 GameObject:
   m_ObjectHideFlags: 0
@@ -1289,9 +1267,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   viewRadius: 3
-  _neighbors: []
+  neighbors: []
   cost: 1
-  blocked: 0
 --- !u!1 &75342986
 GameObject:
   m_ObjectHideFlags: 0
@@ -1336,9 +1313,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   viewRadius: 3
-  _neighbors: []
+  neighbors: []
   cost: 1
-  blocked: 0
 --- !u!1 &79377314
 GameObject:
   m_ObjectHideFlags: 0
@@ -1383,9 +1359,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   viewRadius: 3
-  _neighbors: []
+  neighbors: []
   cost: 1
-  blocked: 0
 --- !u!1 &82215348
 GameObject:
   m_ObjectHideFlags: 0
@@ -1430,9 +1405,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   viewRadius: 3
-  _neighbors: []
+  neighbors: []
   cost: 1
-  blocked: 0
 --- !u!1 &82525418
 GameObject:
   m_ObjectHideFlags: 0
@@ -1477,9 +1451,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   viewRadius: 3
-  _neighbors: []
+  neighbors: []
   cost: 1
-  blocked: 0
 --- !u!1 &83640197
 GameObject:
   m_ObjectHideFlags: 0
@@ -1524,9 +1497,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   viewRadius: 3
-  _neighbors: []
+  neighbors: []
   cost: 1
-  blocked: 0
 --- !u!1 &84542753
 GameObject:
   m_ObjectHideFlags: 0
@@ -1571,9 +1543,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   viewRadius: 3
-  _neighbors: []
+  neighbors: []
   cost: 1
-  blocked: 0
 --- !u!1 &86911004
 GameObject:
   m_ObjectHideFlags: 0
@@ -1618,9 +1589,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   viewRadius: 3
-  _neighbors: []
+  neighbors: []
   cost: 1
-  blocked: 0
 --- !u!1 &88618303
 GameObject:
   m_ObjectHideFlags: 0
@@ -1665,9 +1635,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   viewRadius: 3
-  _neighbors: []
+  neighbors: []
   cost: 1
-  blocked: 0
 --- !u!1 &89720521
 GameObject:
   m_ObjectHideFlags: 0
@@ -1712,9 +1681,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   viewRadius: 3
-  _neighbors: []
+  neighbors: []
   cost: 1
-  blocked: 0
 --- !u!1 &91818697
 GameObject:
   m_ObjectHideFlags: 0
@@ -1851,9 +1819,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   viewRadius: 3
-  _neighbors: []
+  neighbors: []
   cost: 1
-  blocked: 0
 --- !u!1 &94241062
 GameObject:
   m_ObjectHideFlags: 0
@@ -1974,6 +1941,7 @@ MonoBehaviour:
   separationWeightValue: 3
   alignWeightValue: 1
   cohesionWeightValue: 1
+  avoidWeightValue: 4
   leaderMask:
     serializedVersion: 2
     m_Bits: 2048
@@ -2030,9 +1998,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   viewRadius: 3
-  _neighbors: []
+  neighbors: []
   cost: 1
-  blocked: 0
 --- !u!1 &107915887
 GameObject:
   m_ObjectHideFlags: 0
@@ -2077,9 +2044,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   viewRadius: 3
-  _neighbors: []
+  neighbors: []
   cost: 1
-  blocked: 0
 --- !u!1 &107984742
 GameObject:
   m_ObjectHideFlags: 0
@@ -2124,9 +2090,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   viewRadius: 3
-  _neighbors: []
+  neighbors: []
   cost: 1
-  blocked: 0
 --- !u!1 &111505969
 GameObject:
   m_ObjectHideFlags: 0
@@ -2171,9 +2136,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   viewRadius: 3
-  _neighbors: []
+  neighbors: []
   cost: 1
-  blocked: 0
 --- !u!1 &112904229
 GameObject:
   m_ObjectHideFlags: 0
@@ -2218,9 +2182,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   viewRadius: 3
-  _neighbors: []
+  neighbors: []
   cost: 1
-  blocked: 0
 --- !u!1 &113848760
 GameObject:
   m_ObjectHideFlags: 0
@@ -2295,9 +2258,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   viewRadius: 3
-  _neighbors: []
+  neighbors: []
   cost: 1
-  blocked: 0
 --- !u!1 &132813493
 GameObject:
   m_ObjectHideFlags: 0
@@ -2342,9 +2304,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   viewRadius: 3
-  _neighbors: []
+  neighbors: []
   cost: 1
-  blocked: 0
 --- !u!1 &135895090
 GameObject:
   m_ObjectHideFlags: 0
@@ -2389,9 +2350,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   viewRadius: 3
-  _neighbors: []
+  neighbors: []
   cost: 1
-  blocked: 0
 --- !u!1 &140798466
 GameObject:
   m_ObjectHideFlags: 0
@@ -2512,6 +2472,7 @@ MonoBehaviour:
   separationWeightValue: 3
   alignWeightValue: 1
   cohesionWeightValue: 1
+  avoidWeightValue: 4
   leaderMask:
     serializedVersion: 2
     m_Bits: 2048
@@ -2568,9 +2529,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   viewRadius: 3
-  _neighbors: []
+  neighbors: []
   cost: 1
-  blocked: 0
 --- !u!1 &147753901
 GameObject:
   m_ObjectHideFlags: 0
@@ -2615,9 +2575,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   viewRadius: 3
-  _neighbors: []
+  neighbors: []
   cost: 1
-  blocked: 0
 --- !u!1 &151479994
 GameObject:
   m_ObjectHideFlags: 0
@@ -2662,9 +2621,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   viewRadius: 3
-  _neighbors: []
+  neighbors: []
   cost: 1
-  blocked: 0
 --- !u!1 &151996759
 GameObject:
   m_ObjectHideFlags: 0
@@ -2709,9 +2667,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   viewRadius: 3
-  _neighbors: []
+  neighbors: []
   cost: 1
-  blocked: 0
 --- !u!1 &153424287
 GameObject:
   m_ObjectHideFlags: 0
@@ -2756,9 +2713,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   viewRadius: 3
-  _neighbors: []
+  neighbors: []
   cost: 1
-  blocked: 0
 --- !u!1 &159347348
 GameObject:
   m_ObjectHideFlags: 0
@@ -2803,9 +2759,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   viewRadius: 3
-  _neighbors: []
+  neighbors: []
   cost: 1
-  blocked: 0
 --- !u!1 &165562292
 GameObject:
   m_ObjectHideFlags: 0
@@ -2850,9 +2805,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   viewRadius: 3
-  _neighbors: []
+  neighbors: []
   cost: 1
-  blocked: 0
 --- !u!1 &167857427
 GameObject:
   m_ObjectHideFlags: 0
@@ -2897,9 +2851,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   viewRadius: 3
-  _neighbors: []
+  neighbors: []
   cost: 1
-  blocked: 0
 --- !u!1 &168263718
 GameObject:
   m_ObjectHideFlags: 0
@@ -2944,9 +2897,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   viewRadius: 3
-  _neighbors: []
+  neighbors: []
   cost: 1
-  blocked: 0
 --- !u!1 &169854013
 GameObject:
   m_ObjectHideFlags: 0
@@ -2991,9 +2943,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   viewRadius: 3
-  _neighbors: []
+  neighbors: []
   cost: 1
-  blocked: 0
 --- !u!1 &188985205
 GameObject:
   m_ObjectHideFlags: 0
@@ -3038,9 +2989,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   viewRadius: 3
-  _neighbors: []
+  neighbors: []
   cost: 1
-  blocked: 0
 --- !u!1 &190468682
 GameObject:
   m_ObjectHideFlags: 0
@@ -3085,9 +3035,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   viewRadius: 3
-  _neighbors: []
+  neighbors: []
   cost: 1
-  blocked: 0
 --- !u!1 &195617146
 GameObject:
   m_ObjectHideFlags: 0
@@ -3132,9 +3081,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   viewRadius: 3
-  _neighbors: []
+  neighbors: []
   cost: 1
-  blocked: 0
 --- !u!1 &198524814
 GameObject:
   m_ObjectHideFlags: 0
@@ -3179,9 +3127,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   viewRadius: 3
-  _neighbors: []
+  neighbors: []
   cost: 1
-  blocked: 0
 --- !u!1 &200889279
 GameObject:
   m_ObjectHideFlags: 0
@@ -3226,9 +3173,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   viewRadius: 3
-  _neighbors: []
+  neighbors: []
   cost: 1
-  blocked: 0
 --- !u!1 &206580764
 GameObject:
   m_ObjectHideFlags: 0
@@ -3273,9 +3219,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   viewRadius: 3
-  _neighbors: []
+  neighbors: []
   cost: 1
-  blocked: 0
 --- !u!1 &206619922
 GameObject:
   m_ObjectHideFlags: 0
@@ -3353,9 +3298,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   viewRadius: 3
-  _neighbors: []
+  neighbors: []
   cost: 1
-  blocked: 0
 --- !u!1 &210272684
 GameObject:
   m_ObjectHideFlags: 0
@@ -3437,9 +3381,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   viewRadius: 3
-  _neighbors: []
+  neighbors: []
   cost: 1
-  blocked: 0
 --- !u!1 &223948358
 GameObject:
   m_ObjectHideFlags: 0
@@ -3484,9 +3427,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   viewRadius: 3
-  _neighbors: []
+  neighbors: []
   cost: 1
-  blocked: 0
 --- !u!1 &232588674
 GameObject:
   m_ObjectHideFlags: 0
@@ -3531,9 +3473,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   viewRadius: 3
-  _neighbors: []
+  neighbors: []
   cost: 1
-  blocked: 0
 --- !u!1 &238530128
 GameObject:
   m_ObjectHideFlags: 0
@@ -3578,9 +3519,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   viewRadius: 3
-  _neighbors: []
+  neighbors: []
   cost: 1
-  blocked: 0
 --- !u!1 &238954608
 GameObject:
   m_ObjectHideFlags: 0
@@ -3625,9 +3565,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   viewRadius: 3
-  _neighbors: []
+  neighbors: []
   cost: 1
-  blocked: 0
 --- !u!1 &257479302
 GameObject:
   m_ObjectHideFlags: 0
@@ -3764,9 +3703,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   viewRadius: 3
-  _neighbors: []
+  neighbors: []
   cost: 1
-  blocked: 0
 --- !u!1 &265091164
 GameObject:
   m_ObjectHideFlags: 0
@@ -3811,9 +3749,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   viewRadius: 3
-  _neighbors: []
+  neighbors: []
   cost: 1
-  blocked: 0
 --- !u!1 &270015510
 GameObject:
   m_ObjectHideFlags: 0
@@ -3888,9 +3825,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   viewRadius: 3
-  _neighbors: []
+  neighbors: []
   cost: 1
-  blocked: 0
 --- !u!1 &276057236
 GameObject:
   m_ObjectHideFlags: 0
@@ -3935,9 +3871,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   viewRadius: 3
-  _neighbors: []
+  neighbors: []
   cost: 1
-  blocked: 0
 --- !u!1 &278214555
 GameObject:
   m_ObjectHideFlags: 0
@@ -3982,9 +3917,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   viewRadius: 3
-  _neighbors: []
+  neighbors: []
   cost: 1
-  blocked: 0
 --- !u!1 &285252043
 GameObject:
   m_ObjectHideFlags: 0
@@ -4029,9 +3963,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   viewRadius: 3
-  _neighbors: []
+  neighbors: []
   cost: 1
-  blocked: 0
 --- !u!1 &285710133
 GameObject:
   m_ObjectHideFlags: 0
@@ -4076,9 +4009,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   viewRadius: 3
-  _neighbors: []
+  neighbors: []
   cost: 1
-  blocked: 0
 --- !u!1 &285785960
 GameObject:
   m_ObjectHideFlags: 0
@@ -4123,9 +4055,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   viewRadius: 3
-  _neighbors: []
+  neighbors: []
   cost: 1
-  blocked: 0
 --- !u!1 &292484187
 GameObject:
   m_ObjectHideFlags: 0
@@ -4200,9 +4131,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   viewRadius: 3
-  _neighbors: []
+  neighbors: []
   cost: 1
-  blocked: 0
 --- !u!1 &293627330
 GameObject:
   m_ObjectHideFlags: 0
@@ -4247,9 +4177,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   viewRadius: 3
-  _neighbors: []
+  neighbors: []
   cost: 1
-  blocked: 0
 --- !u!1 &296466823
 GameObject:
   m_ObjectHideFlags: 0
@@ -4294,9 +4223,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   viewRadius: 3
-  _neighbors: []
+  neighbors: []
   cost: 1
-  blocked: 0
 --- !u!1 &296828388
 GameObject:
   m_ObjectHideFlags: 0
@@ -4341,9 +4269,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   viewRadius: 3
-  _neighbors: []
+  neighbors: []
   cost: 1
-  blocked: 0
 --- !u!1 &300152832
 GameObject:
   m_ObjectHideFlags: 0
@@ -4388,9 +4315,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   viewRadius: 3
-  _neighbors: []
+  neighbors: []
   cost: 1
-  blocked: 0
 --- !u!1 &300632750
 GameObject:
   m_ObjectHideFlags: 0
@@ -4435,9 +4361,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   viewRadius: 3
-  _neighbors: []
+  neighbors: []
   cost: 1
-  blocked: 0
 --- !u!1 &301306672
 GameObject:
   m_ObjectHideFlags: 0
@@ -4516,9 +4441,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   viewRadius: 3
-  _neighbors: []
+  neighbors: []
   cost: 1
-  blocked: 0
 --- !u!1 &319929325
 GameObject:
   m_ObjectHideFlags: 0
@@ -4563,9 +4487,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   viewRadius: 3
-  _neighbors: []
+  neighbors: []
   cost: 1
-  blocked: 0
 --- !u!1 &321241838
 GameObject:
   m_ObjectHideFlags: 0
@@ -4610,9 +4533,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   viewRadius: 3
-  _neighbors: []
+  neighbors: []
   cost: 1
-  blocked: 0
 --- !u!1 &336316319
 GameObject:
   m_ObjectHideFlags: 0
@@ -4749,9 +4671,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   viewRadius: 3
-  _neighbors: []
+  neighbors: []
   cost: 1
-  blocked: 0
 --- !u!1 &338242712
 GameObject:
   m_ObjectHideFlags: 0
@@ -4796,9 +4717,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   viewRadius: 3
-  _neighbors: []
+  neighbors: []
   cost: 1
-  blocked: 0
 --- !u!1 &347820431
 GameObject:
   m_ObjectHideFlags: 0
@@ -4843,9 +4763,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   viewRadius: 3
-  _neighbors: []
+  neighbors: []
   cost: 1
-  blocked: 0
 --- !u!1 &351371833
 GameObject:
   m_ObjectHideFlags: 0
@@ -4890,9 +4809,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   viewRadius: 3
-  _neighbors: []
+  neighbors: []
   cost: 1
-  blocked: 0
 --- !u!1 &355290995
 GameObject:
   m_ObjectHideFlags: 0
@@ -4937,9 +4855,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   viewRadius: 3
-  _neighbors: []
+  neighbors: []
   cost: 1
-  blocked: 0
 --- !u!1 &356418960
 GameObject:
   m_ObjectHideFlags: 0
@@ -4984,9 +4901,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   viewRadius: 3
-  _neighbors: []
+  neighbors: []
   cost: 1
-  blocked: 0
 --- !u!1 &360147094
 GameObject:
   m_ObjectHideFlags: 0
@@ -5031,9 +4947,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   viewRadius: 3
-  _neighbors: []
+  neighbors: []
   cost: 1
-  blocked: 0
 --- !u!1 &376038017
 GameObject:
   m_ObjectHideFlags: 0
@@ -5078,9 +4993,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   viewRadius: 3
-  _neighbors: []
+  neighbors: []
   cost: 1
-  blocked: 0
 --- !u!1 &376404732
 GameObject:
   m_ObjectHideFlags: 0
@@ -5125,9 +5039,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   viewRadius: 3
-  _neighbors: []
+  neighbors: []
   cost: 1
-  blocked: 0
 --- !u!1 &379252008
 GameObject:
   m_ObjectHideFlags: 0
@@ -5172,9 +5085,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   viewRadius: 3
-  _neighbors: []
+  neighbors: []
   cost: 1
-  blocked: 0
 --- !u!1 &380004211
 GameObject:
   m_ObjectHideFlags: 0
@@ -5219,9 +5131,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   viewRadius: 3
-  _neighbors: []
+  neighbors: []
   cost: 1
-  blocked: 0
 --- !u!1 &392958808
 GameObject:
   m_ObjectHideFlags: 0
@@ -5266,9 +5177,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   viewRadius: 3
-  _neighbors: []
+  neighbors: []
   cost: 1
-  blocked: 0
 --- !u!1 &393024030
 GameObject:
   m_ObjectHideFlags: 0
@@ -5313,9 +5223,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   viewRadius: 3
-  _neighbors: []
+  neighbors: []
   cost: 1
-  blocked: 0
 --- !u!1 &396677221
 GameObject:
   m_ObjectHideFlags: 0
@@ -5360,9 +5269,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   viewRadius: 3
-  _neighbors: []
+  neighbors: []
   cost: 1
-  blocked: 0
 --- !u!1 &397514165
 GameObject:
   m_ObjectHideFlags: 0
@@ -5407,9 +5315,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   viewRadius: 3
-  _neighbors: []
+  neighbors: []
   cost: 1
-  blocked: 0
 --- !u!1 &399628520
 GameObject:
   m_ObjectHideFlags: 0
@@ -5546,9 +5453,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   viewRadius: 3
-  _neighbors: []
+  neighbors: []
   cost: 1
-  blocked: 0
 --- !u!1 &404856033
 GameObject:
   m_ObjectHideFlags: 0
@@ -5593,9 +5499,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   viewRadius: 3
-  _neighbors: []
+  neighbors: []
   cost: 1
-  blocked: 0
 --- !u!1 &407731662
 GameObject:
   m_ObjectHideFlags: 0
@@ -5640,9 +5545,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   viewRadius: 3
-  _neighbors: []
+  neighbors: []
   cost: 1
-  blocked: 0
 --- !u!1 &410084908
 GameObject:
   m_ObjectHideFlags: 0
@@ -5687,9 +5591,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   viewRadius: 3
-  _neighbors: []
+  neighbors: []
   cost: 1
-  blocked: 0
 --- !u!1 &422441275
 GameObject:
   m_ObjectHideFlags: 0
@@ -5734,9 +5637,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   viewRadius: 3
-  _neighbors: []
+  neighbors: []
   cost: 1
-  blocked: 0
 --- !u!1 &423258851
 GameObject:
   m_ObjectHideFlags: 0
@@ -5781,9 +5683,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   viewRadius: 3
-  _neighbors: []
+  neighbors: []
   cost: 1
-  blocked: 0
 --- !u!1 &424971846
 GameObject:
   m_ObjectHideFlags: 0
@@ -5828,9 +5729,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   viewRadius: 3
-  _neighbors: []
+  neighbors: []
   cost: 1
-  blocked: 0
 --- !u!1 &426044396
 GameObject:
   m_ObjectHideFlags: 0
@@ -5875,9 +5775,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   viewRadius: 3
-  _neighbors: []
+  neighbors: []
   cost: 1
-  blocked: 0
 --- !u!1 &437592260
 GameObject:
   m_ObjectHideFlags: 0
@@ -5922,9 +5821,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   viewRadius: 3
-  _neighbors: []
+  neighbors: []
   cost: 1
-  blocked: 0
 --- !u!1 &439394068
 GameObject:
   m_ObjectHideFlags: 0
@@ -5969,9 +5867,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   viewRadius: 3
-  _neighbors: []
+  neighbors: []
   cost: 1
-  blocked: 0
 --- !u!1 &441248050
 GameObject:
   m_ObjectHideFlags: 0
@@ -6016,9 +5913,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   viewRadius: 3
-  _neighbors: []
+  neighbors: []
   cost: 1
-  blocked: 0
 --- !u!1 &447816044
 GameObject:
   m_ObjectHideFlags: 0
@@ -6063,9 +5959,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   viewRadius: 3
-  _neighbors: []
+  neighbors: []
   cost: 1
-  blocked: 0
 --- !u!1 &459619850
 GameObject:
   m_ObjectHideFlags: 0
@@ -6186,6 +6081,7 @@ MonoBehaviour:
   separationWeightValue: 3
   alignWeightValue: 1
   cohesionWeightValue: 1
+  avoidWeightValue: 4
   leaderMask:
     serializedVersion: 2
     m_Bits: 2048
@@ -6334,9 +6230,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   viewRadius: 3
-  _neighbors: []
+  neighbors: []
   cost: 1
-  blocked: 0
 --- !u!1 &466944564
 GameObject:
   m_ObjectHideFlags: 0
@@ -6381,9 +6276,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   viewRadius: 3
-  _neighbors: []
+  neighbors: []
   cost: 1
-  blocked: 0
 --- !u!1 &470029358
 GameObject:
   m_ObjectHideFlags: 0
@@ -6428,9 +6322,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   viewRadius: 3
-  _neighbors: []
+  neighbors: []
   cost: 1
-  blocked: 0
 --- !u!1 &472731060
 GameObject:
   m_ObjectHideFlags: 0
@@ -6475,9 +6368,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   viewRadius: 3
-  _neighbors: []
+  neighbors: []
   cost: 1
-  blocked: 0
 --- !u!1 &480253089
 GameObject:
   m_ObjectHideFlags: 0
@@ -6522,9 +6414,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   viewRadius: 3
-  _neighbors: []
+  neighbors: []
   cost: 1
-  blocked: 0
 --- !u!1 &483993858
 GameObject:
   m_ObjectHideFlags: 0
@@ -6569,9 +6460,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   viewRadius: 3
-  _neighbors: []
+  neighbors: []
   cost: 1
-  blocked: 0
 --- !u!1 &487723095
 GameObject:
   m_ObjectHideFlags: 0
@@ -6646,9 +6536,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   viewRadius: 3
-  _neighbors: []
+  neighbors: []
   cost: 1
-  blocked: 0
 --- !u!1 &492940410
 GameObject:
   m_ObjectHideFlags: 0
@@ -6693,9 +6582,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   viewRadius: 3
-  _neighbors: []
+  neighbors: []
   cost: 1
-  blocked: 0
 --- !u!1 &496404981
 GameObject:
   m_ObjectHideFlags: 0
@@ -6740,9 +6628,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   viewRadius: 3
-  _neighbors: []
+  neighbors: []
   cost: 1
-  blocked: 0
 --- !u!1 &501738619
 GameObject:
   m_ObjectHideFlags: 0
@@ -6787,9 +6674,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   viewRadius: 3
-  _neighbors: []
+  neighbors: []
   cost: 1
-  blocked: 0
 --- !u!1 &504349348
 GameObject:
   m_ObjectHideFlags: 0
@@ -6834,9 +6720,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   viewRadius: 3
-  _neighbors: []
+  neighbors: []
   cost: 1
-  blocked: 0
 --- !u!1 &510266867
 GameObject:
   m_ObjectHideFlags: 0
@@ -6927,9 +6812,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   viewRadius: 3
-  _neighbors: []
+  neighbors: []
   cost: 1
-  blocked: 0
 --- !u!1 &516159731
 GameObject:
   m_ObjectHideFlags: 0
@@ -6974,9 +6858,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   viewRadius: 3
-  _neighbors: []
+  neighbors: []
   cost: 1
-  blocked: 0
 --- !u!1 &527604004
 GameObject:
   m_ObjectHideFlags: 0
@@ -7021,9 +6904,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   viewRadius: 3
-  _neighbors: []
+  neighbors: []
   cost: 1
-  blocked: 0
 --- !u!1 &530484695
 GameObject:
   m_ObjectHideFlags: 0
@@ -7605,9 +7487,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   viewRadius: 3
-  _neighbors: []
+  neighbors: []
   cost: 1
-  blocked: 0
 --- !u!1 &540208987
 GameObject:
   m_ObjectHideFlags: 0
@@ -7652,9 +7533,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   viewRadius: 3
-  _neighbors: []
+  neighbors: []
   cost: 1
-  blocked: 0
 --- !u!1 &541347636
 GameObject:
   m_ObjectHideFlags: 0
@@ -7699,9 +7579,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   viewRadius: 3
-  _neighbors: []
+  neighbors: []
   cost: 1
-  blocked: 0
 --- !u!1 &545343324
 GameObject:
   m_ObjectHideFlags: 0
@@ -7746,9 +7625,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   viewRadius: 3
-  _neighbors: []
+  neighbors: []
   cost: 1
-  blocked: 0
 --- !u!1 &546086782
 GameObject:
   m_ObjectHideFlags: 0
@@ -7793,9 +7671,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   viewRadius: 3
-  _neighbors: []
+  neighbors: []
   cost: 1
-  blocked: 0
 --- !u!1 &550677035
 GameObject:
   m_ObjectHideFlags: 0
@@ -7840,9 +7717,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   viewRadius: 3
-  _neighbors: []
+  neighbors: []
   cost: 1
-  blocked: 0
 --- !u!1 &550828051
 GameObject:
   m_ObjectHideFlags: 0
@@ -7887,9 +7763,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   viewRadius: 3
-  _neighbors: []
+  neighbors: []
   cost: 1
-  blocked: 0
 --- !u!1 &555995999
 GameObject:
   m_ObjectHideFlags: 0
@@ -7934,9 +7809,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   viewRadius: 3
-  _neighbors: []
+  neighbors: []
   cost: 1
-  blocked: 0
 --- !u!1 &563833447
 GameObject:
   m_ObjectHideFlags: 0
@@ -7981,9 +7855,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   viewRadius: 3
-  _neighbors: []
+  neighbors: []
   cost: 1
-  blocked: 0
 --- !u!1 &566288000
 GameObject:
   m_ObjectHideFlags: 0
@@ -8028,9 +7901,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   viewRadius: 3
-  _neighbors: []
+  neighbors: []
   cost: 1
-  blocked: 0
 --- !u!1 &572801037
 GameObject:
   m_ObjectHideFlags: 0
@@ -8168,9 +8040,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   viewRadius: 3
-  _neighbors: []
+  neighbors: []
   cost: 1
-  blocked: 0
 --- !u!1 &579771620
 GameObject:
   m_ObjectHideFlags: 0
@@ -8215,9 +8086,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   viewRadius: 3
-  _neighbors: []
+  neighbors: []
   cost: 1
-  blocked: 0
 --- !u!1 &581155933
 GameObject:
   m_ObjectHideFlags: 0
@@ -8262,9 +8132,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   viewRadius: 3
-  _neighbors: []
+  neighbors: []
   cost: 1
-  blocked: 0
 --- !u!1 &589991311
 GameObject:
   m_ObjectHideFlags: 0
@@ -8309,9 +8178,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   viewRadius: 3
-  _neighbors: []
+  neighbors: []
   cost: 1
-  blocked: 0
 --- !u!1 &592984623
 GameObject:
   m_ObjectHideFlags: 0
@@ -8356,9 +8224,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   viewRadius: 3
-  _neighbors: []
+  neighbors: []
   cost: 1
-  blocked: 0
 --- !u!1 &593543213
 GameObject:
   m_ObjectHideFlags: 0
@@ -8403,9 +8270,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   viewRadius: 3
-  _neighbors: []
+  neighbors: []
   cost: 1
-  blocked: 0
 --- !u!1 &600941674
 GameObject:
   m_ObjectHideFlags: 0
@@ -8450,9 +8316,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   viewRadius: 3
-  _neighbors: []
+  neighbors: []
   cost: 1
-  blocked: 0
 --- !u!1 &601341724
 GameObject:
   m_ObjectHideFlags: 0
@@ -8497,9 +8362,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   viewRadius: 3
-  _neighbors: []
+  neighbors: []
   cost: 1
-  blocked: 0
 --- !u!1 &612740663
 GameObject:
   m_ObjectHideFlags: 0
@@ -8544,9 +8408,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   viewRadius: 3
-  _neighbors: []
+  neighbors: []
   cost: 1
-  blocked: 0
 --- !u!1 &617235187
 GameObject:
   m_ObjectHideFlags: 0
@@ -8591,9 +8454,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   viewRadius: 3
-  _neighbors: []
+  neighbors: []
   cost: 1
-  blocked: 0
 --- !u!1 &620443058
 GameObject:
   m_ObjectHideFlags: 0
@@ -8638,9 +8500,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   viewRadius: 3
-  _neighbors: []
+  neighbors: []
   cost: 1
-  blocked: 0
 --- !u!1 &628347535
 GameObject:
   m_ObjectHideFlags: 0
@@ -8685,9 +8546,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   viewRadius: 3
-  _neighbors: []
+  neighbors: []
   cost: 1
-  blocked: 0
 --- !u!1 &632130683
 GameObject:
   m_ObjectHideFlags: 0
@@ -8732,9 +8592,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   viewRadius: 3
-  _neighbors: []
+  neighbors: []
   cost: 1
-  blocked: 0
 --- !u!1 &634564630
 GameObject:
   m_ObjectHideFlags: 0
@@ -8779,9 +8638,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   viewRadius: 3
-  _neighbors: []
+  neighbors: []
   cost: 1
-  blocked: 0
 --- !u!1 &636247038
 GameObject:
   m_ObjectHideFlags: 0
@@ -8826,9 +8684,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   viewRadius: 3
-  _neighbors: []
+  neighbors: []
   cost: 1
-  blocked: 0
 --- !u!1 &636560967
 GameObject:
   m_ObjectHideFlags: 0
@@ -8873,9 +8730,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   viewRadius: 3
-  _neighbors: []
+  neighbors: []
   cost: 1
-  blocked: 0
 --- !u!1 &648292219
 GameObject:
   m_ObjectHideFlags: 0
@@ -8920,9 +8776,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   viewRadius: 3
-  _neighbors: []
+  neighbors: []
   cost: 1
-  blocked: 0
 --- !u!1 &652286470
 GameObject:
   m_ObjectHideFlags: 0
@@ -9041,9 +8896,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   viewRadius: 3
-  _neighbors: []
+  neighbors: []
   cost: 1
-  blocked: 0
 --- !u!1 &661094516
 GameObject:
   m_ObjectHideFlags: 0
@@ -9088,9 +8942,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   viewRadius: 3
-  _neighbors: []
+  neighbors: []
   cost: 1
-  blocked: 0
 --- !u!1 &663244047
 GameObject:
   m_ObjectHideFlags: 0
@@ -9195,9 +9048,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   viewRadius: 3
-  _neighbors: []
+  neighbors: []
   cost: 1
-  blocked: 0
 --- !u!1 &671157586
 GameObject:
   m_ObjectHideFlags: 0
@@ -9242,9 +9094,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   viewRadius: 3
-  _neighbors: []
+  neighbors: []
   cost: 1
-  blocked: 0
 --- !u!1 &674241749
 GameObject:
   m_ObjectHideFlags: 0
@@ -9289,9 +9140,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   viewRadius: 3
-  _neighbors: []
+  neighbors: []
   cost: 1
-  blocked: 0
 --- !u!1 &675298297
 GameObject:
   m_ObjectHideFlags: 0
@@ -9336,9 +9186,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   viewRadius: 3
-  _neighbors: []
+  neighbors: []
   cost: 1
-  blocked: 0
 --- !u!1 &680072960
 GameObject:
   m_ObjectHideFlags: 0
@@ -9383,9 +9232,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   viewRadius: 3
-  _neighbors: []
+  neighbors: []
   cost: 1
-  blocked: 0
 --- !u!1 &680895077
 GameObject:
   m_ObjectHideFlags: 0
@@ -9430,9 +9278,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   viewRadius: 3
-  _neighbors: []
+  neighbors: []
   cost: 1
-  blocked: 0
 --- !u!1 &684781170
 GameObject:
   m_ObjectHideFlags: 0
@@ -9477,9 +9324,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   viewRadius: 3
-  _neighbors: []
+  neighbors: []
   cost: 1
-  blocked: 0
 --- !u!1 &693144409
 GameObject:
   m_ObjectHideFlags: 0
@@ -9524,9 +9370,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   viewRadius: 3
-  _neighbors: []
+  neighbors: []
   cost: 1
-  blocked: 0
 --- !u!1 &697960457
 GameObject:
   m_ObjectHideFlags: 0
@@ -9571,9 +9416,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   viewRadius: 3
-  _neighbors: []
+  neighbors: []
   cost: 1
-  blocked: 0
 --- !u!1 &698719377
 GameObject:
   m_ObjectHideFlags: 0
@@ -9618,9 +9462,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   viewRadius: 3
-  _neighbors: []
+  neighbors: []
   cost: 1
-  blocked: 0
 --- !u!1 &701898911
 GameObject:
   m_ObjectHideFlags: 0
@@ -9665,9 +9508,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   viewRadius: 3
-  _neighbors: []
+  neighbors: []
   cost: 1
-  blocked: 0
 --- !u!1 &704860108
 GameObject:
   m_ObjectHideFlags: 0
@@ -9712,9 +9554,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   viewRadius: 3
-  _neighbors: []
+  neighbors: []
   cost: 1
-  blocked: 0
 --- !u!1 &705507993
 GameObject:
   m_ObjectHideFlags: 0
@@ -9850,9 +9691,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   viewRadius: 3
-  _neighbors: []
+  neighbors: []
   cost: 1
-  blocked: 0
 --- !u!1 &706032421
 GameObject:
   m_ObjectHideFlags: 0
@@ -9897,9 +9737,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   viewRadius: 3
-  _neighbors: []
+  neighbors: []
   cost: 1
-  blocked: 0
 --- !u!1 &709564818
 GameObject:
   m_ObjectHideFlags: 0
@@ -9944,9 +9783,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   viewRadius: 3
-  _neighbors: []
+  neighbors: []
   cost: 1
-  blocked: 0
 --- !u!1 &713089577
 GameObject:
   m_ObjectHideFlags: 0
@@ -9991,9 +9829,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   viewRadius: 3
-  _neighbors: []
+  neighbors: []
   cost: 1
-  blocked: 0
 --- !u!1 &715422247
 GameObject:
   m_ObjectHideFlags: 0
@@ -10038,9 +9875,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   viewRadius: 3
-  _neighbors: []
+  neighbors: []
   cost: 1
-  blocked: 0
 --- !u!1 &720390991
 GameObject:
   m_ObjectHideFlags: 0
@@ -10085,9 +9921,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   viewRadius: 3
-  _neighbors: []
+  neighbors: []
   cost: 1
-  blocked: 0
 --- !u!1 &724146515
 GameObject:
   m_ObjectHideFlags: 0
@@ -10132,9 +9967,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   viewRadius: 3
-  _neighbors: []
+  neighbors: []
   cost: 1
-  blocked: 0
 --- !u!1 &725520240
 GameObject:
   m_ObjectHideFlags: 0
@@ -10179,9 +10013,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   viewRadius: 3
-  _neighbors: []
+  neighbors: []
   cost: 1
-  blocked: 0
 --- !u!1 &737268256
 GameObject:
   m_ObjectHideFlags: 0
@@ -10226,9 +10059,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   viewRadius: 3
-  _neighbors: []
+  neighbors: []
   cost: 1
-  blocked: 0
 --- !u!1 &740021522
 GameObject:
   m_ObjectHideFlags: 0
@@ -10273,9 +10105,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   viewRadius: 3
-  _neighbors: []
+  neighbors: []
   cost: 1
-  blocked: 0
 --- !u!1 &740223715
 GameObject:
   m_ObjectHideFlags: 0
@@ -10320,9 +10151,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   viewRadius: 3
-  _neighbors: []
+  neighbors: []
   cost: 1
-  blocked: 0
 --- !u!1 &743640904
 GameObject:
   m_ObjectHideFlags: 0
@@ -10482,9 +10312,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   viewRadius: 3
-  _neighbors: []
+  neighbors: []
   cost: 1
-  blocked: 0
 --- !u!1 &752299935
 GameObject:
   m_ObjectHideFlags: 0
@@ -10529,9 +10358,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   viewRadius: 3
-  _neighbors: []
+  neighbors: []
   cost: 1
-  blocked: 0
 --- !u!1 &772875082
 GameObject:
   m_ObjectHideFlags: 0
@@ -10576,9 +10404,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   viewRadius: 3
-  _neighbors: []
+  neighbors: []
   cost: 1
-  blocked: 0
 --- !u!1 &777553099
 GameObject:
   m_ObjectHideFlags: 0
@@ -10623,9 +10450,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   viewRadius: 3
-  _neighbors: []
+  neighbors: []
   cost: 1
-  blocked: 0
 --- !u!1 &778902165
 GameObject:
   m_ObjectHideFlags: 0
@@ -10670,9 +10496,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   viewRadius: 3
-  _neighbors: []
+  neighbors: []
   cost: 1
-  blocked: 0
 --- !u!1 &781920855
 GameObject:
   m_ObjectHideFlags: 0
@@ -10717,9 +10542,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   viewRadius: 3
-  _neighbors: []
+  neighbors: []
   cost: 1
-  blocked: 0
 --- !u!1 &781923305
 GameObject:
   m_ObjectHideFlags: 0
@@ -10764,9 +10588,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   viewRadius: 3
-  _neighbors: []
+  neighbors: []
   cost: 1
-  blocked: 0
 --- !u!1 &785659362
 GameObject:
   m_ObjectHideFlags: 0
@@ -10811,9 +10634,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   viewRadius: 3
-  _neighbors: []
+  neighbors: []
   cost: 1
-  blocked: 0
 --- !u!1 &797018665
 GameObject:
   m_ObjectHideFlags: 0
@@ -10888,9 +10710,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   viewRadius: 3
-  _neighbors: []
+  neighbors: []
   cost: 1
-  blocked: 0
 --- !u!1 &805141452
 GameObject:
   m_ObjectHideFlags: 0
@@ -10935,9 +10756,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   viewRadius: 3
-  _neighbors: []
+  neighbors: []
   cost: 1
-  blocked: 0
 --- !u!1 &807464646
 GameObject:
   m_ObjectHideFlags: 0
@@ -10982,9 +10802,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   viewRadius: 3
-  _neighbors: []
+  neighbors: []
   cost: 1
-  blocked: 0
 --- !u!1 &817283725
 GameObject:
   m_ObjectHideFlags: 0
@@ -11029,9 +10848,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   viewRadius: 3
-  _neighbors: []
+  neighbors: []
   cost: 1
-  blocked: 0
 --- !u!1 &817539503
 GameObject:
   m_ObjectHideFlags: 0
@@ -11076,9 +10894,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   viewRadius: 3
-  _neighbors: []
+  neighbors: []
   cost: 1
-  blocked: 0
 --- !u!1 &826888005
 GameObject:
   m_ObjectHideFlags: 0
@@ -11123,9 +10940,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   viewRadius: 3
-  _neighbors: []
+  neighbors: []
   cost: 1
-  blocked: 0
 --- !u!1 &826913652
 GameObject:
   m_ObjectHideFlags: 0
@@ -11170,9 +10986,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   viewRadius: 3
-  _neighbors: []
+  neighbors: []
   cost: 1
-  blocked: 0
 --- !u!1 &835649196
 GameObject:
   m_ObjectHideFlags: 0
@@ -11217,9 +11032,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   viewRadius: 3
-  _neighbors: []
+  neighbors: []
   cost: 1
-  blocked: 0
 --- !u!1 &841153758
 GameObject:
   m_ObjectHideFlags: 0
@@ -11264,9 +11078,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   viewRadius: 3
-  _neighbors: []
+  neighbors: []
   cost: 1
-  blocked: 0
 --- !u!1 &843520157
 GameObject:
   m_ObjectHideFlags: 0
@@ -11311,9 +11124,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   viewRadius: 3
-  _neighbors: []
+  neighbors: []
   cost: 1
-  blocked: 0
 --- !u!1 &844080394
 GameObject:
   m_ObjectHideFlags: 0
@@ -11877,9 +11689,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   viewRadius: 3
-  _neighbors: []
+  neighbors: []
   cost: 1
-  blocked: 0
 --- !u!1 &845504285
 GameObject:
   m_ObjectHideFlags: 0
@@ -11899,7 +11710,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!4 &845504286
 Transform:
   m_ObjectHideFlags: 0
@@ -12000,6 +11811,7 @@ MonoBehaviour:
   separationWeightValue: 3
   alignWeightValue: 1
   cohesionWeightValue: 1
+  avoidWeightValue: 4
   leaderMask:
     serializedVersion: 2
     m_Bits: 2048
@@ -12056,9 +11868,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   viewRadius: 3
-  _neighbors: []
+  neighbors: []
   cost: 1
-  blocked: 0
 --- !u!1 &852115049
 GameObject:
   m_ObjectHideFlags: 0
@@ -12103,9 +11914,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   viewRadius: 3
-  _neighbors: []
+  neighbors: []
   cost: 1
-  blocked: 0
 --- !u!1 &856443241
 GameObject:
   m_ObjectHideFlags: 0
@@ -12150,9 +11960,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   viewRadius: 3
-  _neighbors: []
+  neighbors: []
   cost: 1
-  blocked: 0
 --- !u!1 &859018425
 GameObject:
   m_ObjectHideFlags: 0
@@ -12197,9 +12006,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   viewRadius: 3
-  _neighbors: []
+  neighbors: []
   cost: 1
-  blocked: 0
 --- !u!1 &859366960
 GameObject:
   m_ObjectHideFlags: 0
@@ -12244,9 +12052,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   viewRadius: 3
-  _neighbors: []
+  neighbors: []
   cost: 1
-  blocked: 0
 --- !u!1 &861659451
 GameObject:
   m_ObjectHideFlags: 0
@@ -12291,9 +12098,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   viewRadius: 3
-  _neighbors: []
+  neighbors: []
   cost: 1
-  blocked: 0
 --- !u!1 &862104921
 GameObject:
   m_ObjectHideFlags: 0
@@ -12338,9 +12144,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   viewRadius: 3
-  _neighbors: []
+  neighbors: []
   cost: 1
-  blocked: 0
 --- !u!1 &865420548
 GameObject:
   m_ObjectHideFlags: 0
@@ -12385,9 +12190,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   viewRadius: 3
-  _neighbors: []
+  neighbors: []
   cost: 1
-  blocked: 0
 --- !u!1 &867371649
 GameObject:
   m_ObjectHideFlags: 0
@@ -12432,9 +12236,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   viewRadius: 3
-  _neighbors: []
+  neighbors: []
   cost: 1
-  blocked: 0
 --- !u!1 &873996789
 GameObject:
   m_ObjectHideFlags: 0
@@ -12479,9 +12282,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   viewRadius: 3
-  _neighbors: []
+  neighbors: []
   cost: 1
-  blocked: 0
 --- !u!1 &877655385
 GameObject:
   m_ObjectHideFlags: 0
@@ -12526,9 +12328,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   viewRadius: 3
-  _neighbors: []
+  neighbors: []
   cost: 1
-  blocked: 0
 --- !u!1 &878984906
 GameObject:
   m_ObjectHideFlags: 0
@@ -12573,9 +12374,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   viewRadius: 3
-  _neighbors: []
+  neighbors: []
   cost: 1
-  blocked: 0
 --- !u!1 &885105370
 GameObject:
   m_ObjectHideFlags: 0
@@ -12620,9 +12420,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   viewRadius: 3
-  _neighbors: []
+  neighbors: []
   cost: 1
-  blocked: 0
 --- !u!1 &885962059
 GameObject:
   m_ObjectHideFlags: 0
@@ -12667,9 +12466,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   viewRadius: 3
-  _neighbors: []
+  neighbors: []
   cost: 1
-  blocked: 0
 --- !u!1 &890531240
 GameObject:
   m_ObjectHideFlags: 0
@@ -12714,9 +12512,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   viewRadius: 3
-  _neighbors: []
+  neighbors: []
   cost: 1
-  blocked: 0
 --- !u!1 &890632766
 GameObject:
   m_ObjectHideFlags: 0
@@ -12761,9 +12558,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   viewRadius: 3
-  _neighbors: []
+  neighbors: []
   cost: 1
-  blocked: 0
 --- !u!1 &893549887
 GameObject:
   m_ObjectHideFlags: 0
@@ -12923,9 +12719,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   viewRadius: 3
-  _neighbors: []
+  neighbors: []
   cost: 1
-  blocked: 0
 --- !u!1 &898795409
 GameObject:
   m_ObjectHideFlags: 0
@@ -13000,9 +12795,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   viewRadius: 3
-  _neighbors: []
+  neighbors: []
   cost: 1
-  blocked: 0
 --- !u!1 &899712659
 GameObject:
   m_ObjectHideFlags: 0
@@ -13047,9 +12841,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   viewRadius: 3
-  _neighbors: []
+  neighbors: []
   cost: 1
-  blocked: 0
 --- !u!1 &900096756
 GameObject:
   m_ObjectHideFlags: 0
@@ -13094,9 +12887,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   viewRadius: 3
-  _neighbors: []
+  neighbors: []
   cost: 1
-  blocked: 0
 --- !u!1 &903366743
 GameObject:
   m_ObjectHideFlags: 0
@@ -13141,9 +12933,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   viewRadius: 3
-  _neighbors: []
+  neighbors: []
   cost: 1
-  blocked: 0
 --- !u!1 &903564513
 GameObject:
   m_ObjectHideFlags: 0
@@ -13188,9 +12979,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   viewRadius: 3
-  _neighbors: []
+  neighbors: []
   cost: 1
-  blocked: 0
 --- !u!1 &904645175
 GameObject:
   m_ObjectHideFlags: 0
@@ -13235,9 +13025,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   viewRadius: 3
-  _neighbors: []
+  neighbors: []
   cost: 1
-  blocked: 0
 --- !u!1 &907200239
 GameObject:
   m_ObjectHideFlags: 0
@@ -13282,9 +13071,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   viewRadius: 3
-  _neighbors: []
+  neighbors: []
   cost: 1
-  blocked: 0
 --- !u!1 &912995257
 GameObject:
   m_ObjectHideFlags: 0
@@ -13329,9 +13117,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   viewRadius: 3
-  _neighbors: []
+  neighbors: []
   cost: 1
-  blocked: 0
 --- !u!1 &915184515
 GameObject:
   m_ObjectHideFlags: 0
@@ -13376,9 +13163,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   viewRadius: 3
-  _neighbors: []
+  neighbors: []
   cost: 1
-  blocked: 0
 --- !u!1 &929660790
 GameObject:
   m_ObjectHideFlags: 0
@@ -13423,9 +13209,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   viewRadius: 3
-  _neighbors: []
+  neighbors: []
   cost: 1
-  blocked: 0
 --- !u!1 &935020513
 GameObject:
   m_ObjectHideFlags: 0
@@ -13470,9 +13255,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   viewRadius: 3
-  _neighbors: []
+  neighbors: []
   cost: 1
-  blocked: 0
 --- !u!1 &936829359
 GameObject:
   m_ObjectHideFlags: 0
@@ -13517,9 +13301,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   viewRadius: 3
-  _neighbors: []
+  neighbors: []
   cost: 1
-  blocked: 0
 --- !u!1 &941538984
 GameObject:
   m_ObjectHideFlags: 0
@@ -13564,9 +13347,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   viewRadius: 3
-  _neighbors: []
+  neighbors: []
   cost: 1
-  blocked: 0
 --- !u!1 &945259938
 GameObject:
   m_ObjectHideFlags: 0
@@ -13611,9 +13393,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   viewRadius: 3
-  _neighbors: []
+  neighbors: []
   cost: 1
-  blocked: 0
 --- !u!1 &955759434
 GameObject:
   m_ObjectHideFlags: 0
@@ -13658,9 +13439,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   viewRadius: 3
-  _neighbors: []
+  neighbors: []
   cost: 1
-  blocked: 0
 --- !u!1 &958440280
 GameObject:
   m_ObjectHideFlags: 0
@@ -13705,9 +13485,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   viewRadius: 3
-  _neighbors: []
+  neighbors: []
   cost: 1
-  blocked: 0
 --- !u!1 &958819562
 GameObject:
   m_ObjectHideFlags: 0
@@ -13786,9 +13565,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   viewRadius: 3
-  _neighbors: []
+  neighbors: []
   cost: 1
-  blocked: 0
 --- !u!1 &961446743
 GameObject:
   m_ObjectHideFlags: 0
@@ -13833,9 +13611,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   viewRadius: 3
-  _neighbors: []
+  neighbors: []
   cost: 1
-  blocked: 0
 --- !u!1 &963194225
 GameObject:
   m_ObjectHideFlags: 0
@@ -13963,9 +13740,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   viewRadius: 3
-  _neighbors: []
+  neighbors: []
   cost: 1
-  blocked: 0
 --- !u!1 &969602956
 GameObject:
   m_ObjectHideFlags: 0
@@ -14116,6 +13892,7 @@ MonoBehaviour:
   separationWeightValue: 3
   alignWeightValue: 1
   cohesionWeightValue: 1
+  avoidWeightValue: 4
   leaderMask:
     serializedVersion: 2
     m_Bits: 2048
@@ -14172,9 +13949,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   viewRadius: 3
-  _neighbors: []
+  neighbors: []
   cost: 1
-  blocked: 0
 --- !u!1 &973821117
 GameObject:
   m_ObjectHideFlags: 0
@@ -14219,9 +13995,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   viewRadius: 3
-  _neighbors: []
+  neighbors: []
   cost: 1
-  blocked: 0
 --- !u!1 &974872144
 GameObject:
   m_ObjectHideFlags: 0
@@ -14296,9 +14071,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   viewRadius: 3
-  _neighbors: []
+  neighbors: []
   cost: 1
-  blocked: 0
 --- !u!1 &989183033
 GameObject:
   m_ObjectHideFlags: 0
@@ -14373,9 +14147,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   viewRadius: 3
-  _neighbors: []
+  neighbors: []
   cost: 1
-  blocked: 0
 --- !u!1 &997843351
 GameObject:
   m_ObjectHideFlags: 0
@@ -14420,9 +14193,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   viewRadius: 3
-  _neighbors: []
+  neighbors: []
   cost: 1
-  blocked: 0
 --- !u!1 &998005862
 GameObject:
   m_ObjectHideFlags: 0
@@ -14467,9 +14239,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   viewRadius: 3
-  _neighbors: []
+  neighbors: []
   cost: 1
-  blocked: 0
 --- !u!1 &1000258195
 GameObject:
   m_ObjectHideFlags: 0
@@ -14514,9 +14285,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   viewRadius: 3
-  _neighbors: []
+  neighbors: []
   cost: 1
-  blocked: 0
 --- !u!1 &1004296408
 GameObject:
   m_ObjectHideFlags: 0
@@ -14561,9 +14331,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   viewRadius: 3
-  _neighbors: []
+  neighbors: []
   cost: 1
-  blocked: 0
 --- !u!1 &1010920676
 GameObject:
   m_ObjectHideFlags: 0
@@ -14608,9 +14377,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   viewRadius: 3
-  _neighbors: []
+  neighbors: []
   cost: 1
-  blocked: 0
 --- !u!1 &1014496129
 GameObject:
   m_ObjectHideFlags: 0
@@ -14655,9 +14423,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   viewRadius: 3
-  _neighbors: []
+  neighbors: []
   cost: 1
-  blocked: 0
 --- !u!1 &1039976050
 GameObject:
   m_ObjectHideFlags: 0
@@ -14702,9 +14469,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   viewRadius: 3
-  _neighbors: []
+  neighbors: []
   cost: 1
-  blocked: 0
 --- !u!1 &1043537101
 GameObject:
   m_ObjectHideFlags: 0
@@ -14749,9 +14515,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   viewRadius: 3
-  _neighbors: []
+  neighbors: []
   cost: 1
-  blocked: 0
 --- !u!1 &1054697390
 GameObject:
   m_ObjectHideFlags: 0
@@ -14796,9 +14561,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   viewRadius: 3
-  _neighbors: []
+  neighbors: []
   cost: 1
-  blocked: 0
 --- !u!1 &1069479986
 GameObject:
   m_ObjectHideFlags: 0
@@ -14843,9 +14607,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   viewRadius: 3
-  _neighbors: []
+  neighbors: []
   cost: 1
-  blocked: 0
 --- !u!1 &1076449138
 GameObject:
   m_ObjectHideFlags: 0
@@ -14890,9 +14653,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   viewRadius: 3
-  _neighbors: []
+  neighbors: []
   cost: 1
-  blocked: 0
 --- !u!1 &1087765450
 GameObject:
   m_ObjectHideFlags: 0
@@ -14937,9 +14699,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   viewRadius: 3
-  _neighbors: []
+  neighbors: []
   cost: 1
-  blocked: 0
 --- !u!1 &1090450595
 GameObject:
   m_ObjectHideFlags: 0
@@ -14984,9 +14745,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   viewRadius: 3
-  _neighbors: []
+  neighbors: []
   cost: 1
-  blocked: 0
 --- !u!1 &1093582100
 GameObject:
   m_ObjectHideFlags: 0
@@ -15031,9 +14791,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   viewRadius: 3
-  _neighbors: []
+  neighbors: []
   cost: 1
-  blocked: 0
 --- !u!1 &1108947400
 GameObject:
   m_ObjectHideFlags: 0
@@ -15078,9 +14837,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   viewRadius: 3
-  _neighbors: []
+  neighbors: []
   cost: 1
-  blocked: 0
 --- !u!1 &1111405496
 GameObject:
   m_ObjectHideFlags: 0
@@ -15125,9 +14883,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   viewRadius: 3
-  _neighbors: []
+  neighbors: []
   cost: 1
-  blocked: 0
 --- !u!1 &1115414541
 GameObject:
   m_ObjectHideFlags: 0
@@ -15172,9 +14929,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   viewRadius: 3
-  _neighbors: []
+  neighbors: []
   cost: 1
-  blocked: 0
 --- !u!1 &1119430333
 GameObject:
   m_ObjectHideFlags: 0
@@ -15249,9 +15005,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   viewRadius: 3
-  _neighbors: []
+  neighbors: []
   cost: 1
-  blocked: 0
 --- !u!1 &1139871146
 GameObject:
   m_ObjectHideFlags: 0
@@ -15296,9 +15051,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   viewRadius: 3
-  _neighbors: []
+  neighbors: []
   cost: 1
-  blocked: 0
 --- !u!1 &1140164873
 GameObject:
   m_ObjectHideFlags: 0
@@ -15343,9 +15097,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   viewRadius: 3
-  _neighbors: []
+  neighbors: []
   cost: 1
-  blocked: 0
 --- !u!1 &1142159010
 GameObject:
   m_ObjectHideFlags: 0
@@ -15390,9 +15143,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   viewRadius: 3
-  _neighbors: []
+  neighbors: []
   cost: 1
-  blocked: 0
 --- !u!1 &1144970007
 GameObject:
   m_ObjectHideFlags: 0
@@ -15437,9 +15189,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   viewRadius: 3
-  _neighbors: []
+  neighbors: []
   cost: 1
-  blocked: 0
 --- !u!1 &1146562834
 GameObject:
   m_ObjectHideFlags: 0
@@ -15484,9 +15235,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   viewRadius: 3
-  _neighbors: []
+  neighbors: []
   cost: 1
-  blocked: 0
 --- !u!1 &1147816112
 GameObject:
   m_ObjectHideFlags: 0
@@ -15531,9 +15281,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   viewRadius: 3
-  _neighbors: []
+  neighbors: []
   cost: 1
-  blocked: 0
 --- !u!1 &1159379847
 GameObject:
   m_ObjectHideFlags: 0
@@ -15578,9 +15327,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   viewRadius: 3
-  _neighbors: []
+  neighbors: []
   cost: 1
-  blocked: 0
 --- !u!1 &1160386160
 GameObject:
   m_ObjectHideFlags: 0
@@ -15625,9 +15373,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   viewRadius: 3
-  _neighbors: []
+  neighbors: []
   cost: 1
-  blocked: 0
 --- !u!1 &1164842365
 GameObject:
   m_ObjectHideFlags: 0
@@ -15672,9 +15419,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   viewRadius: 3
-  _neighbors: []
+  neighbors: []
   cost: 1
-  blocked: 0
 --- !u!1 &1172663023
 GameObject:
   m_ObjectHideFlags: 0
@@ -15719,9 +15465,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   viewRadius: 3
-  _neighbors: []
+  neighbors: []
   cost: 1
-  blocked: 0
 --- !u!1 &1177825190
 GameObject:
   m_ObjectHideFlags: 0
@@ -15766,9 +15511,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   viewRadius: 3
-  _neighbors: []
+  neighbors: []
   cost: 1
-  blocked: 0
 --- !u!1 &1180312205
 GameObject:
   m_ObjectHideFlags: 0
@@ -15813,9 +15557,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   viewRadius: 3
-  _neighbors: []
+  neighbors: []
   cost: 1
-  blocked: 0
 --- !u!1 &1181321635
 GameObject:
   m_ObjectHideFlags: 0
@@ -15860,9 +15603,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   viewRadius: 3
-  _neighbors: []
+  neighbors: []
   cost: 1
-  blocked: 0
 --- !u!1 &1181614971
 GameObject:
   m_ObjectHideFlags: 0
@@ -15907,9 +15649,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   viewRadius: 3
-  _neighbors: []
+  neighbors: []
   cost: 1
-  blocked: 0
 --- !u!1 &1182819583
 GameObject:
   m_ObjectHideFlags: 0
@@ -15954,9 +15695,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   viewRadius: 3
-  _neighbors: []
+  neighbors: []
   cost: 1
-  blocked: 0
 --- !u!1 &1184341580
 GameObject:
   m_ObjectHideFlags: 0
@@ -16001,9 +15741,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   viewRadius: 3
-  _neighbors: []
+  neighbors: []
   cost: 1
-  blocked: 0
 --- !u!1 &1198383687
 GameObject:
   m_ObjectHideFlags: 0
@@ -16048,9 +15787,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   viewRadius: 3
-  _neighbors: []
+  neighbors: []
   cost: 1
-  blocked: 0
 --- !u!1 &1202106747
 GameObject:
   m_ObjectHideFlags: 0
@@ -16095,9 +15833,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   viewRadius: 3
-  _neighbors: []
+  neighbors: []
   cost: 1
-  blocked: 0
 --- !u!1 &1203372337
 GameObject:
   m_ObjectHideFlags: 0
@@ -16142,9 +15879,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   viewRadius: 3
-  _neighbors: []
+  neighbors: []
   cost: 1
-  blocked: 0
 --- !u!1 &1206439059
 GameObject:
   m_ObjectHideFlags: 0
@@ -16189,9 +15925,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   viewRadius: 3
-  _neighbors: []
+  neighbors: []
   cost: 1
-  blocked: 0
 --- !u!1 &1207167274
 GameObject:
   m_ObjectHideFlags: 0
@@ -16236,9 +15971,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   viewRadius: 3
-  _neighbors: []
+  neighbors: []
   cost: 1
-  blocked: 0
 --- !u!1 &1208618659
 GameObject:
   m_ObjectHideFlags: 0
@@ -16283,9 +16017,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   viewRadius: 3
-  _neighbors: []
+  neighbors: []
   cost: 1
-  blocked: 0
 --- !u!1 &1216517277
 GameObject:
   m_ObjectHideFlags: 0
@@ -16330,9 +16063,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   viewRadius: 3
-  _neighbors: []
+  neighbors: []
   cost: 1
-  blocked: 0
 --- !u!1 &1222998993
 GameObject:
   m_ObjectHideFlags: 0
@@ -16411,9 +16143,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   viewRadius: 3
-  _neighbors: []
+  neighbors: []
   cost: 1
-  blocked: 0
 --- !u!1 &1228266750
 GameObject:
   m_ObjectHideFlags: 0
@@ -16458,9 +16189,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   viewRadius: 3
-  _neighbors: []
+  neighbors: []
   cost: 1
-  blocked: 0
 --- !u!1 &1229322097
 GameObject:
   m_ObjectHideFlags: 0
@@ -16505,9 +16235,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   viewRadius: 3
-  _neighbors: []
+  neighbors: []
   cost: 1
-  blocked: 0
 --- !u!1 &1235912052
 GameObject:
   m_ObjectHideFlags: 0
@@ -16552,9 +16281,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   viewRadius: 3
-  _neighbors: []
+  neighbors: []
   cost: 1
-  blocked: 0
 --- !u!1 &1237323464
 GameObject:
   m_ObjectHideFlags: 0
@@ -16599,9 +16327,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   viewRadius: 3
-  _neighbors: []
+  neighbors: []
   cost: 1
-  blocked: 0
 --- !u!1 &1250783141
 GameObject:
   m_ObjectHideFlags: 0
@@ -16646,9 +16373,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   viewRadius: 3
-  _neighbors: []
+  neighbors: []
   cost: 1
-  blocked: 0
 --- !u!1 &1255329563
 GameObject:
   m_ObjectHideFlags: 0
@@ -16693,9 +16419,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   viewRadius: 3
-  _neighbors: []
+  neighbors: []
   cost: 1
-  blocked: 0
 --- !u!1 &1255657623
 GameObject:
   m_ObjectHideFlags: 0
@@ -16740,9 +16465,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   viewRadius: 3
-  _neighbors: []
+  neighbors: []
   cost: 1
-  blocked: 0
 --- !u!1 &1270089021
 GameObject:
   m_ObjectHideFlags: 0
@@ -16787,9 +16511,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   viewRadius: 3
-  _neighbors: []
+  neighbors: []
   cost: 1
-  blocked: 0
 --- !u!1 &1272913074
 GameObject:
   m_ObjectHideFlags: 0
@@ -16834,9 +16557,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   viewRadius: 3
-  _neighbors: []
+  neighbors: []
   cost: 1
-  blocked: 0
 --- !u!1 &1273734855
 GameObject:
   m_ObjectHideFlags: 0
@@ -16881,9 +16603,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   viewRadius: 3
-  _neighbors: []
+  neighbors: []
   cost: 1
-  blocked: 0
 --- !u!1 &1280827266
 GameObject:
   m_ObjectHideFlags: 0
@@ -16928,9 +16649,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   viewRadius: 3
-  _neighbors: []
+  neighbors: []
   cost: 1
-  blocked: 0
 --- !u!1 &1281357606
 GameObject:
   m_ObjectHideFlags: 0
@@ -17005,9 +16725,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   viewRadius: 3
-  _neighbors: []
+  neighbors: []
   cost: 1
-  blocked: 0
 --- !u!1 &1285852385
 GameObject:
   m_ObjectHideFlags: 0
@@ -17052,9 +16771,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   viewRadius: 3
-  _neighbors: []
+  neighbors: []
   cost: 1
-  blocked: 0
 --- !u!1 &1286092850
 GameObject:
   m_ObjectHideFlags: 0
@@ -17099,9 +16817,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   viewRadius: 3
-  _neighbors: []
+  neighbors: []
   cost: 1
-  blocked: 0
 --- !u!1 &1287286993
 GameObject:
   m_ObjectHideFlags: 0
@@ -17146,9 +16863,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   viewRadius: 3
-  _neighbors: []
+  neighbors: []
   cost: 1
-  blocked: 0
 --- !u!1 &1295475777
 GameObject:
   m_ObjectHideFlags: 0
@@ -17193,9 +16909,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   viewRadius: 3
-  _neighbors: []
+  neighbors: []
   cost: 1
-  blocked: 0
 --- !u!1 &1299632515
 GameObject:
   m_ObjectHideFlags: 0
@@ -17240,9 +16955,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   viewRadius: 3
-  _neighbors: []
+  neighbors: []
   cost: 1
-  blocked: 0
 --- !u!1 &1301306387
 GameObject:
   m_ObjectHideFlags: 0
@@ -17287,9 +17001,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   viewRadius: 3
-  _neighbors: []
+  neighbors: []
   cost: 1
-  blocked: 0
 --- !u!1 &1305773784
 GameObject:
   m_ObjectHideFlags: 0
@@ -17334,9 +17047,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   viewRadius: 3
-  _neighbors: []
+  neighbors: []
   cost: 1
-  blocked: 0
 --- !u!1 &1316991087
 GameObject:
   m_ObjectHideFlags: 0
@@ -17381,9 +17093,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   viewRadius: 3
-  _neighbors: []
+  neighbors: []
   cost: 1
-  blocked: 0
 --- !u!1 &1320637194
 GameObject:
   m_ObjectHideFlags: 0
@@ -17521,9 +17232,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   viewRadius: 3
-  _neighbors: []
+  neighbors: []
   cost: 1
-  blocked: 0
 --- !u!1 &1330779553
 GameObject:
   m_ObjectHideFlags: 0
@@ -17568,9 +17278,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   viewRadius: 3
-  _neighbors: []
+  neighbors: []
   cost: 1
-  blocked: 0
 --- !u!1 &1337596331
 GameObject:
   m_ObjectHideFlags: 0
@@ -17615,9 +17324,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   viewRadius: 3
-  _neighbors: []
+  neighbors: []
   cost: 1
-  blocked: 0
 --- !u!1 &1339656010
 GameObject:
   m_ObjectHideFlags: 0
@@ -17754,9 +17462,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   viewRadius: 3
-  _neighbors: []
+  neighbors: []
   cost: 1
-  blocked: 0
 --- !u!1 &1340929044
 GameObject:
   m_ObjectHideFlags: 0
@@ -17801,9 +17508,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   viewRadius: 3
-  _neighbors: []
+  neighbors: []
   cost: 1
-  blocked: 0
 --- !u!1 &1342979541
 GameObject:
   m_ObjectHideFlags: 0
@@ -17878,9 +17584,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   viewRadius: 3
-  _neighbors: []
+  neighbors: []
   cost: 1
-  blocked: 0
 --- !u!1 &1345366907
 GameObject:
   m_ObjectHideFlags: 0
@@ -17925,9 +17630,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   viewRadius: 3
-  _neighbors: []
+  neighbors: []
   cost: 1
-  blocked: 0
 --- !u!1 &1346078830
 GameObject:
   m_ObjectHideFlags: 0
@@ -17972,9 +17676,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   viewRadius: 3
-  _neighbors: []
+  neighbors: []
   cost: 1
-  blocked: 0
 --- !u!1 &1348009309
 GameObject:
   m_ObjectHideFlags: 0
@@ -18019,9 +17722,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   viewRadius: 3
-  _neighbors: []
+  neighbors: []
   cost: 1
-  blocked: 0
 --- !u!1 &1359054056
 GameObject:
   m_ObjectHideFlags: 0
@@ -18096,9 +17798,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   viewRadius: 3
-  _neighbors: []
+  neighbors: []
   cost: 1
-  blocked: 0
 --- !u!1 &1368797734
 GameObject:
   m_ObjectHideFlags: 0
@@ -18143,9 +17844,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   viewRadius: 3
-  _neighbors: []
+  neighbors: []
   cost: 1
-  blocked: 0
 --- !u!1 &1369455185
 GameObject:
   m_ObjectHideFlags: 0
@@ -18316,9 +18016,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   viewRadius: 3
-  _neighbors: []
+  neighbors: []
   cost: 1
-  blocked: 0
 --- !u!1 &1373640809
 GameObject:
   m_ObjectHideFlags: 0
@@ -18363,9 +18062,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   viewRadius: 3
-  _neighbors: []
+  neighbors: []
   cost: 1
-  blocked: 0
 --- !u!1 &1378813622
 GameObject:
   m_ObjectHideFlags: 0
@@ -18501,9 +18199,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   viewRadius: 3
-  _neighbors: []
+  neighbors: []
   cost: 1
-  blocked: 0
 --- !u!1 &1382248674
 GameObject:
   m_ObjectHideFlags: 0
@@ -18548,9 +18245,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   viewRadius: 3
-  _neighbors: []
+  neighbors: []
   cost: 1
-  blocked: 0
 --- !u!1 &1389076030
 GameObject:
   m_ObjectHideFlags: 0
@@ -18595,9 +18291,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   viewRadius: 3
-  _neighbors: []
+  neighbors: []
   cost: 1
-  blocked: 0
 --- !u!1 &1391673603
 GameObject:
   m_ObjectHideFlags: 0
@@ -18642,9 +18337,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   viewRadius: 3
-  _neighbors: []
+  neighbors: []
   cost: 1
-  blocked: 0
 --- !u!1 &1391954896
 GameObject:
   m_ObjectHideFlags: 0
@@ -18689,9 +18383,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   viewRadius: 3
-  _neighbors: []
+  neighbors: []
   cost: 1
-  blocked: 0
 --- !u!1 &1397751090
 GameObject:
   m_ObjectHideFlags: 0
@@ -18766,9 +18459,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   viewRadius: 3
-  _neighbors: []
+  neighbors: []
   cost: 1
-  blocked: 0
 --- !u!1 &1405151341
 GameObject:
   m_ObjectHideFlags: 0
@@ -18813,9 +18505,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   viewRadius: 3
-  _neighbors: []
+  neighbors: []
   cost: 1
-  blocked: 0
 --- !u!1 &1409611002
 GameObject:
   m_ObjectHideFlags: 0
@@ -18860,9 +18551,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   viewRadius: 3
-  _neighbors: []
+  neighbors: []
   cost: 1
-  blocked: 0
 --- !u!1 &1417315810
 GameObject:
   m_ObjectHideFlags: 0
@@ -18907,9 +18597,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   viewRadius: 3
-  _neighbors: []
+  neighbors: []
   cost: 1
-  blocked: 0
 --- !u!1 &1420341543
 GameObject:
   m_ObjectHideFlags: 0
@@ -18954,9 +18643,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   viewRadius: 3
-  _neighbors: []
+  neighbors: []
   cost: 1
-  blocked: 0
 --- !u!1 &1423670300
 GameObject:
   m_ObjectHideFlags: 0
@@ -19001,9 +18689,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   viewRadius: 3
-  _neighbors: []
+  neighbors: []
   cost: 1
-  blocked: 0
 --- !u!1 &1430422335
 GameObject:
   m_ObjectHideFlags: 0
@@ -19048,9 +18735,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   viewRadius: 3
-  _neighbors: []
+  neighbors: []
   cost: 1
-  blocked: 0
 --- !u!1 &1433098413
 GameObject:
   m_ObjectHideFlags: 0
@@ -19095,9 +18781,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   viewRadius: 3
-  _neighbors: []
+  neighbors: []
   cost: 1
-  blocked: 0
 --- !u!1 &1435141388
 GameObject:
   m_ObjectHideFlags: 0
@@ -19142,9 +18827,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   viewRadius: 3
-  _neighbors: []
+  neighbors: []
   cost: 1
-  blocked: 0
 --- !u!1 &1439131928
 GameObject:
   m_ObjectHideFlags: 0
@@ -19189,9 +18873,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   viewRadius: 3
-  _neighbors: []
+  neighbors: []
   cost: 1
-  blocked: 0
 --- !u!1 &1440116430
 GameObject:
   m_ObjectHideFlags: 0
@@ -19236,9 +18919,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   viewRadius: 3
-  _neighbors: []
+  neighbors: []
   cost: 1
-  blocked: 0
 --- !u!1 &1444233806
 GameObject:
   m_ObjectHideFlags: 0
@@ -19374,9 +19056,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   viewRadius: 3
-  _neighbors: []
+  neighbors: []
   cost: 1
-  blocked: 0
 --- !u!1 &1454360972
 GameObject:
   m_ObjectHideFlags: 0
@@ -19451,9 +19132,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   viewRadius: 3
-  _neighbors: []
+  neighbors: []
   cost: 1
-  blocked: 0
 --- !u!1 &1461728322
 GameObject:
   m_ObjectHideFlags: 0
@@ -19498,9 +19178,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   viewRadius: 3
-  _neighbors: []
+  neighbors: []
   cost: 1
-  blocked: 0
 --- !u!1 &1474862031
 GameObject:
   m_ObjectHideFlags: 0
@@ -19545,9 +19224,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   viewRadius: 3
-  _neighbors: []
+  neighbors: []
   cost: 1
-  blocked: 0
 --- !u!1 &1477191508
 GameObject:
   m_ObjectHideFlags: 0
@@ -19592,9 +19270,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   viewRadius: 3
-  _neighbors: []
+  neighbors: []
   cost: 1
-  blocked: 0
 --- !u!1 &1477511744
 GameObject:
   m_ObjectHideFlags: 0
@@ -19639,9 +19316,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   viewRadius: 3
-  _neighbors: []
+  neighbors: []
   cost: 1
-  blocked: 0
 --- !u!1 &1483195451
 GameObject:
   m_ObjectHideFlags: 0
@@ -19686,9 +19362,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   viewRadius: 3
-  _neighbors: []
+  neighbors: []
   cost: 1
-  blocked: 0
 --- !u!1 &1486380835
 GameObject:
   m_ObjectHideFlags: 0
@@ -19733,9 +19408,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   viewRadius: 3
-  _neighbors: []
+  neighbors: []
   cost: 1
-  blocked: 0
 --- !u!1 &1505193264
 GameObject:
   m_ObjectHideFlags: 0
@@ -19780,9 +19454,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   viewRadius: 3
-  _neighbors: []
+  neighbors: []
   cost: 1
-  blocked: 0
 --- !u!1 &1508809568
 GameObject:
   m_ObjectHideFlags: 0
@@ -19861,9 +19534,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   viewRadius: 3
-  _neighbors: []
+  neighbors: []
   cost: 1
-  blocked: 0
 --- !u!1 &1514880193
 GameObject:
   m_ObjectHideFlags: 0
@@ -19908,9 +19580,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   viewRadius: 3
-  _neighbors: []
+  neighbors: []
   cost: 1
-  blocked: 0
 --- !u!1 &1516938758
 GameObject:
   m_ObjectHideFlags: 0
@@ -19955,9 +19626,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   viewRadius: 3
-  _neighbors: []
+  neighbors: []
   cost: 1
-  blocked: 0
 --- !u!1 &1527544347
 GameObject:
   m_ObjectHideFlags: 0
@@ -20002,9 +19672,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   viewRadius: 3
-  _neighbors: []
+  neighbors: []
   cost: 1
-  blocked: 0
 --- !u!1 &1531290687
 GameObject:
   m_ObjectHideFlags: 0
@@ -20049,9 +19718,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   viewRadius: 3
-  _neighbors: []
+  neighbors: []
   cost: 1
-  blocked: 0
 --- !u!1 &1533362146
 GameObject:
   m_ObjectHideFlags: 0
@@ -20096,9 +19764,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   viewRadius: 3
-  _neighbors: []
+  neighbors: []
   cost: 1
-  blocked: 0
 --- !u!1 &1534273086
 GameObject:
   m_ObjectHideFlags: 0
@@ -20143,9 +19810,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   viewRadius: 3
-  _neighbors: []
+  neighbors: []
   cost: 1
-  blocked: 0
 --- !u!1 &1539936700
 GameObject:
   m_ObjectHideFlags: 0
@@ -20190,9 +19856,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   viewRadius: 3
-  _neighbors: []
+  neighbors: []
   cost: 1
-  blocked: 0
 --- !u!1 &1540249428
 GameObject:
   m_ObjectHideFlags: 0
@@ -20237,9 +19902,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   viewRadius: 3
-  _neighbors: []
+  neighbors: []
   cost: 1
-  blocked: 0
 --- !u!1 &1551536082
 GameObject:
   m_ObjectHideFlags: 0
@@ -20284,9 +19948,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   viewRadius: 3
-  _neighbors: []
+  neighbors: []
   cost: 1
-  blocked: 0
 --- !u!1 &1551680656
 GameObject:
   m_ObjectHideFlags: 0
@@ -20296,6 +19959,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1551680657}
+  - component: {fileID: 1551680658}
   m_Layer: 0
   m_Name: Screen
   m_TagString: Untagged
@@ -20317,6 +19981,18 @@ Transform:
   m_Father: {fileID: 206619923}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1551680658
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1551680656}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e0d9390843a2f8047b9fd25d8f08774d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &1567355448
 GameObject:
   m_ObjectHideFlags: 0
@@ -20361,9 +20037,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   viewRadius: 3
-  _neighbors: []
+  neighbors: []
   cost: 1
-  blocked: 0
 --- !u!1 &1574521850
 GameObject:
   m_ObjectHideFlags: 0
@@ -20408,9 +20083,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   viewRadius: 3
-  _neighbors: []
+  neighbors: []
   cost: 1
-  blocked: 0
 --- !u!1 &1575982485
 GameObject:
   m_ObjectHideFlags: 0
@@ -20455,9 +20129,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   viewRadius: 3
-  _neighbors: []
+  neighbors: []
   cost: 1
-  blocked: 0
 --- !u!1 &1576613170
 GameObject:
   m_ObjectHideFlags: 0
@@ -20502,9 +20175,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   viewRadius: 3
-  _neighbors: []
+  neighbors: []
   cost: 1
-  blocked: 0
 --- !u!1 &1589568053
 GameObject:
   m_ObjectHideFlags: 0
@@ -20549,9 +20221,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   viewRadius: 3
-  _neighbors: []
+  neighbors: []
   cost: 1
-  blocked: 0
 --- !u!1 &1589987876
 GameObject:
   m_ObjectHideFlags: 0
@@ -20596,9 +20267,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   viewRadius: 3
-  _neighbors: []
+  neighbors: []
   cost: 1
-  blocked: 0
 --- !u!1 &1590695749
 GameObject:
   m_ObjectHideFlags: 0
@@ -20643,9 +20313,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   viewRadius: 3
-  _neighbors: []
+  neighbors: []
   cost: 1
-  blocked: 0
 --- !u!1 &1591533507
 GameObject:
   m_ObjectHideFlags: 0
@@ -20690,9 +20359,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   viewRadius: 3
-  _neighbors: []
+  neighbors: []
   cost: 1
-  blocked: 0
 --- !u!1 &1597092840
 GameObject:
   m_ObjectHideFlags: 0
@@ -20737,9 +20405,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   viewRadius: 3
-  _neighbors: []
+  neighbors: []
   cost: 1
-  blocked: 0
 --- !u!1 &1597207627
 GameObject:
   m_ObjectHideFlags: 0
@@ -20784,9 +20451,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   viewRadius: 3
-  _neighbors: []
+  neighbors: []
   cost: 1
-  blocked: 0
 --- !u!1 &1597734151
 GameObject:
   m_ObjectHideFlags: 0
@@ -20831,9 +20497,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   viewRadius: 3
-  _neighbors: []
+  neighbors: []
   cost: 1
-  blocked: 0
 --- !u!1 &1608658429
 GameObject:
   m_ObjectHideFlags: 0
@@ -20878,9 +20543,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   viewRadius: 3
-  _neighbors: []
+  neighbors: []
   cost: 1
-  blocked: 0
 --- !u!1 &1611448418
 GameObject:
   m_ObjectHideFlags: 0
@@ -20925,9 +20589,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   viewRadius: 3
-  _neighbors: []
+  neighbors: []
   cost: 1
-  blocked: 0
 --- !u!1 &1615252139
 GameObject:
   m_ObjectHideFlags: 0
@@ -21002,9 +20665,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   viewRadius: 3
-  _neighbors: []
+  neighbors: []
   cost: 1
-  blocked: 0
 --- !u!1 &1618276239
 GameObject:
   m_ObjectHideFlags: 0
@@ -21164,9 +20826,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   viewRadius: 3
-  _neighbors: []
+  neighbors: []
   cost: 1
-  blocked: 0
 --- !u!1 &1625066223
 GameObject:
   m_ObjectHideFlags: 0
@@ -21211,9 +20872,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   viewRadius: 3
-  _neighbors: []
+  neighbors: []
   cost: 1
-  blocked: 0
 --- !u!1 &1629939844
 GameObject:
   m_ObjectHideFlags: 0
@@ -21290,9 +20950,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   viewRadius: 3
-  _neighbors: []
+  neighbors: []
   cost: 1
-  blocked: 0
 --- !u!1 &1640341399
 GameObject:
   m_ObjectHideFlags: 0
@@ -21337,9 +20996,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   viewRadius: 3
-  _neighbors: []
+  neighbors: []
   cost: 1
-  blocked: 0
 --- !u!1 &1643759826
 GameObject:
   m_ObjectHideFlags: 0
@@ -21384,9 +21042,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   viewRadius: 3
-  _neighbors: []
+  neighbors: []
   cost: 1
-  blocked: 0
 --- !u!1 &1651876258
 GameObject:
   m_ObjectHideFlags: 0
@@ -21431,9 +21088,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   viewRadius: 3
-  _neighbors: []
+  neighbors: []
   cost: 1
-  blocked: 0
 --- !u!1 &1653676415
 GameObject:
   m_ObjectHideFlags: 0
@@ -21478,9 +21134,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   viewRadius: 3
-  _neighbors: []
+  neighbors: []
   cost: 1
-  blocked: 0
 --- !u!1 &1654861332
 GameObject:
   m_ObjectHideFlags: 0
@@ -21525,9 +21180,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   viewRadius: 3
-  _neighbors: []
+  neighbors: []
   cost: 1
-  blocked: 0
 --- !u!1 &1656824297
 GameObject:
   m_ObjectHideFlags: 0
@@ -21572,9 +21226,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   viewRadius: 3
-  _neighbors: []
+  neighbors: []
   cost: 1
-  blocked: 0
 --- !u!1 &1663164698
 GameObject:
   m_ObjectHideFlags: 0
@@ -21619,9 +21272,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   viewRadius: 3
-  _neighbors: []
+  neighbors: []
   cost: 1
-  blocked: 0
 --- !u!1 &1663984550
 GameObject:
   m_ObjectHideFlags: 0
@@ -21666,9 +21318,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   viewRadius: 3
-  _neighbors: []
+  neighbors: []
   cost: 1
-  blocked: 0
 --- !u!1 &1681072433
 GameObject:
   m_ObjectHideFlags: 0
@@ -21713,9 +21364,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   viewRadius: 3
-  _neighbors: []
+  neighbors: []
   cost: 1
-  blocked: 0
 --- !u!1 &1681165759
 GameObject:
   m_ObjectHideFlags: 0
@@ -21760,9 +21410,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   viewRadius: 3
-  _neighbors: []
+  neighbors: []
   cost: 1
-  blocked: 0
 --- !u!1 &1681251476
 GameObject:
   m_ObjectHideFlags: 0
@@ -21807,9 +21456,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   viewRadius: 3
-  _neighbors: []
+  neighbors: []
   cost: 1
-  blocked: 0
 --- !u!1 &1684474568
 GameObject:
   m_ObjectHideFlags: 0
@@ -21854,9 +21502,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   viewRadius: 3
-  _neighbors: []
+  neighbors: []
   cost: 1
-  blocked: 0
 --- !u!1 &1687091991
 GameObject:
   m_ObjectHideFlags: 0
@@ -21901,9 +21548,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   viewRadius: 3
-  _neighbors: []
+  neighbors: []
   cost: 1
-  blocked: 0
 --- !u!1 &1688528261
 GameObject:
   m_ObjectHideFlags: 0
@@ -22070,9 +21716,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   viewRadius: 3
-  _neighbors: []
+  neighbors: []
   cost: 1
-  blocked: 0
 --- !u!1 &1702613256
 GameObject:
   m_ObjectHideFlags: 0
@@ -22117,9 +21762,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   viewRadius: 3
-  _neighbors: []
+  neighbors: []
   cost: 1
-  blocked: 0
 --- !u!1 &1703071570
 GameObject:
   m_ObjectHideFlags: 0
@@ -22164,9 +21808,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   viewRadius: 3
-  _neighbors: []
+  neighbors: []
   cost: 1
-  blocked: 0
 --- !u!1 &1703414372
 GameObject:
   m_ObjectHideFlags: 0
@@ -22211,9 +21854,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   viewRadius: 3
-  _neighbors: []
+  neighbors: []
   cost: 1
-  blocked: 0
 --- !u!1 &1706021776
 GameObject:
   m_ObjectHideFlags: 0
@@ -22258,9 +21900,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   viewRadius: 3
-  _neighbors: []
+  neighbors: []
   cost: 1
-  blocked: 0
 --- !u!1 &1709465549
 GameObject:
   m_ObjectHideFlags: 0
@@ -22305,9 +21946,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   viewRadius: 3
-  _neighbors: []
+  neighbors: []
   cost: 1
-  blocked: 0
 --- !u!1 &1711013475
 GameObject:
   m_ObjectHideFlags: 0
@@ -22352,9 +21992,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   viewRadius: 3
-  _neighbors: []
+  neighbors: []
   cost: 1
-  blocked: 0
 --- !u!1 &1711531632
 GameObject:
   m_ObjectHideFlags: 0
@@ -22399,9 +22038,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   viewRadius: 3
-  _neighbors: []
+  neighbors: []
   cost: 1
-  blocked: 0
 --- !u!1 &1713004256
 GameObject:
   m_ObjectHideFlags: 0
@@ -22446,9 +22084,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   viewRadius: 3
-  _neighbors: []
+  neighbors: []
   cost: 1
-  blocked: 0
 --- !u!1 &1713410711
 GameObject:
   m_ObjectHideFlags: 0
@@ -22493,9 +22130,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   viewRadius: 3
-  _neighbors: []
+  neighbors: []
   cost: 1
-  blocked: 0
 --- !u!1 &1713846283
 GameObject:
   m_ObjectHideFlags: 0
@@ -22540,9 +22176,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   viewRadius: 3
-  _neighbors: []
+  neighbors: []
   cost: 1
-  blocked: 0
 --- !u!1 &1713930084
 GameObject:
   m_ObjectHideFlags: 0
@@ -22587,9 +22222,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   viewRadius: 3
-  _neighbors: []
+  neighbors: []
   cost: 1
-  blocked: 0
 --- !u!1 &1717930210
 GameObject:
   m_ObjectHideFlags: 0
@@ -22634,9 +22268,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   viewRadius: 3
-  _neighbors: []
+  neighbors: []
   cost: 1
-  blocked: 0
 --- !u!1 &1721292405
 GameObject:
   m_ObjectHideFlags: 0
@@ -22681,9 +22314,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   viewRadius: 3
-  _neighbors: []
+  neighbors: []
   cost: 1
-  blocked: 0
 --- !u!1 &1722982793
 GameObject:
   m_ObjectHideFlags: 0
@@ -22728,9 +22360,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   viewRadius: 3
-  _neighbors: []
+  neighbors: []
   cost: 1
-  blocked: 0
 --- !u!1 &1726254683
 GameObject:
   m_ObjectHideFlags: 0
@@ -22775,9 +22406,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   viewRadius: 3
-  _neighbors: []
+  neighbors: []
   cost: 1
-  blocked: 0
 --- !u!1 &1729791751
 GameObject:
   m_ObjectHideFlags: 0
@@ -22822,9 +22452,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   viewRadius: 3
-  _neighbors: []
+  neighbors: []
   cost: 1
-  blocked: 0
 --- !u!1 &1736572201
 GameObject:
   m_ObjectHideFlags: 0
@@ -22869,9 +22498,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   viewRadius: 3
-  _neighbors: []
+  neighbors: []
   cost: 1
-  blocked: 0
 --- !u!1 &1740444810
 GameObject:
   m_ObjectHideFlags: 0
@@ -22916,9 +22544,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   viewRadius: 3
-  _neighbors: []
+  neighbors: []
   cost: 1
-  blocked: 0
 --- !u!1 &1742568907
 GameObject:
   m_ObjectHideFlags: 0
@@ -22963,9 +22590,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   viewRadius: 3
-  _neighbors: []
+  neighbors: []
   cost: 1
-  blocked: 0
 --- !u!1 &1750590033
 GameObject:
   m_ObjectHideFlags: 0
@@ -23010,9 +22636,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   viewRadius: 3
-  _neighbors: []
+  neighbors: []
   cost: 1
-  blocked: 0
 --- !u!1 &1751868724
 GameObject:
   m_ObjectHideFlags: 0
@@ -23057,9 +22682,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   viewRadius: 3
-  _neighbors: []
+  neighbors: []
   cost: 1
-  blocked: 0
 --- !u!1 &1752877353
 GameObject:
   m_ObjectHideFlags: 0
@@ -23104,9 +22728,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   viewRadius: 3
-  _neighbors: []
+  neighbors: []
   cost: 1
-  blocked: 0
 --- !u!1 &1755768040
 GameObject:
   m_ObjectHideFlags: 0
@@ -23151,9 +22774,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   viewRadius: 3
-  _neighbors: []
+  neighbors: []
   cost: 1
-  blocked: 0
 --- !u!1 &1764171002
 GameObject:
   m_ObjectHideFlags: 0
@@ -23198,9 +22820,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   viewRadius: 3
-  _neighbors: []
+  neighbors: []
   cost: 1
-  blocked: 0
 --- !u!1 &1766475839
 GameObject:
   m_ObjectHideFlags: 0
@@ -23305,9 +22926,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   viewRadius: 3
-  _neighbors: []
+  neighbors: []
   cost: 1
-  blocked: 0
 --- !u!1 &1769150164
 GameObject:
   m_ObjectHideFlags: 0
@@ -23352,9 +22972,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   viewRadius: 3
-  _neighbors: []
+  neighbors: []
   cost: 1
-  blocked: 0
 --- !u!1 &1772255145
 GameObject:
   m_ObjectHideFlags: 0
@@ -23399,9 +23018,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   viewRadius: 3
-  _neighbors: []
+  neighbors: []
   cost: 1
-  blocked: 0
 --- !u!1 &1772345466
 GameObject:
   m_ObjectHideFlags: 0
@@ -23446,9 +23064,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   viewRadius: 3
-  _neighbors: []
+  neighbors: []
   cost: 1
-  blocked: 0
 --- !u!1 &1777513964
 GameObject:
   m_ObjectHideFlags: 0
@@ -23493,9 +23110,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   viewRadius: 3
-  _neighbors: []
+  neighbors: []
   cost: 1
-  blocked: 0
 --- !u!1 &1781557893
 GameObject:
   m_ObjectHideFlags: 0
@@ -23540,9 +23156,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   viewRadius: 3
-  _neighbors: []
+  neighbors: []
   cost: 1
-  blocked: 0
 --- !u!1 &1783090828
 GameObject:
   m_ObjectHideFlags: 0
@@ -23587,9 +23202,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   viewRadius: 3
-  _neighbors: []
+  neighbors: []
   cost: 1
-  blocked: 0
 --- !u!1 &1791288051
 GameObject:
   m_ObjectHideFlags: 0
@@ -23634,9 +23248,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   viewRadius: 3
-  _neighbors: []
+  neighbors: []
   cost: 1
-  blocked: 0
 --- !u!1 &1794364905
 GameObject:
   m_ObjectHideFlags: 0
@@ -23681,9 +23294,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   viewRadius: 3
-  _neighbors: []
+  neighbors: []
   cost: 1
-  blocked: 0
 --- !u!1 &1794829111
 GameObject:
   m_ObjectHideFlags: 0
@@ -23728,9 +23340,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   viewRadius: 3
-  _neighbors: []
+  neighbors: []
   cost: 1
-  blocked: 0
 --- !u!1 &1799257932
 GameObject:
   m_ObjectHideFlags: 0
@@ -23775,9 +23386,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   viewRadius: 3
-  _neighbors: []
+  neighbors: []
   cost: 1
-  blocked: 0
 --- !u!1 &1800444312
 GameObject:
   m_ObjectHideFlags: 0
@@ -23822,9 +23432,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   viewRadius: 3
-  _neighbors: []
+  neighbors: []
   cost: 1
-  blocked: 0
 --- !u!1 &1818510052
 GameObject:
   m_ObjectHideFlags: 0
@@ -23869,9 +23478,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   viewRadius: 3
-  _neighbors: []
+  neighbors: []
   cost: 1
-  blocked: 0
 --- !u!1 &1818928832
 GameObject:
   m_ObjectHideFlags: 0
@@ -23916,9 +23524,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   viewRadius: 3
-  _neighbors: []
+  neighbors: []
   cost: 1
-  blocked: 0
 --- !u!1 &1820942091
 GameObject:
   m_ObjectHideFlags: 0
@@ -23963,9 +23570,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   viewRadius: 3
-  _neighbors: []
+  neighbors: []
   cost: 1
-  blocked: 0
 --- !u!1 &1829025413
 GameObject:
   m_ObjectHideFlags: 0
@@ -24010,9 +23616,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   viewRadius: 3
-  _neighbors: []
+  neighbors: []
   cost: 1
-  blocked: 0
 --- !u!1 &1834796165
 GameObject:
   m_ObjectHideFlags: 0
@@ -24057,9 +23662,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   viewRadius: 3
-  _neighbors: []
+  neighbors: []
   cost: 1
-  blocked: 0
 --- !u!1 &1837507506
 GameObject:
   m_ObjectHideFlags: 0
@@ -24180,6 +23784,7 @@ MonoBehaviour:
   separationWeightValue: 3
   alignWeightValue: 1
   cohesionWeightValue: 1
+  avoidWeightValue: 4
   leaderMask:
     serializedVersion: 2
     m_Bits: 2048
@@ -24236,9 +23841,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   viewRadius: 3
-  _neighbors: []
+  neighbors: []
   cost: 1
-  blocked: 0
 --- !u!1 &1842238074
 GameObject:
   m_ObjectHideFlags: 0
@@ -24283,9 +23887,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   viewRadius: 3
-  _neighbors: []
+  neighbors: []
   cost: 1
-  blocked: 0
 --- !u!1 &1842972013
 GameObject:
   m_ObjectHideFlags: 0
@@ -24330,9 +23933,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   viewRadius: 3
-  _neighbors: []
+  neighbors: []
   cost: 1
-  blocked: 0
 --- !u!1 &1847894245
 GameObject:
   m_ObjectHideFlags: 0
@@ -24377,9 +23979,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   viewRadius: 3
-  _neighbors: []
+  neighbors: []
   cost: 1
-  blocked: 0
 --- !u!1 &1848169673
 GameObject:
   m_ObjectHideFlags: 0
@@ -24424,9 +24025,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   viewRadius: 3
-  _neighbors: []
+  neighbors: []
   cost: 1
-  blocked: 0
 --- !u!1 &1850508628
 GameObject:
   m_ObjectHideFlags: 0
@@ -24471,9 +24071,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   viewRadius: 3
-  _neighbors: []
+  neighbors: []
   cost: 1
-  blocked: 0
 --- !u!1 &1853455916
 GameObject:
   m_ObjectHideFlags: 0
@@ -24518,9 +24117,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   viewRadius: 3
-  _neighbors: []
+  neighbors: []
   cost: 1
-  blocked: 0
 --- !u!1 &1854551300
 GameObject:
   m_ObjectHideFlags: 0
@@ -24565,9 +24163,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   viewRadius: 3
-  _neighbors: []
+  neighbors: []
   cost: 1
-  blocked: 0
 --- !u!1 &1855917708
 GameObject:
   m_ObjectHideFlags: 0
@@ -24704,9 +24301,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   viewRadius: 3
-  _neighbors: []
+  neighbors: []
   cost: 1
-  blocked: 0
 --- !u!1 &1861136308
 GameObject:
   m_ObjectHideFlags: 0
@@ -24843,9 +24439,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   viewRadius: 3
-  _neighbors: []
+  neighbors: []
   cost: 1
-  blocked: 0
 --- !u!1 &1867871060
 GameObject:
   m_ObjectHideFlags: 0
@@ -24890,9 +24485,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   viewRadius: 3
-  _neighbors: []
+  neighbors: []
   cost: 1
-  blocked: 0
 --- !u!1 &1869299836
 GameObject:
   m_ObjectHideFlags: 0
@@ -24937,9 +24531,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   viewRadius: 3
-  _neighbors: []
+  neighbors: []
   cost: 1
-  blocked: 0
 --- !u!1 &1872553397
 GameObject:
   m_ObjectHideFlags: 0
@@ -24984,9 +24577,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   viewRadius: 3
-  _neighbors: []
+  neighbors: []
   cost: 1
-  blocked: 0
 --- !u!1 &1874099642
 GameObject:
   m_ObjectHideFlags: 0
@@ -25031,9 +24623,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   viewRadius: 3
-  _neighbors: []
+  neighbors: []
   cost: 1
-  blocked: 0
 --- !u!1 &1887283059
 GameObject:
   m_ObjectHideFlags: 0
@@ -25078,9 +24669,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   viewRadius: 3
-  _neighbors: []
+  neighbors: []
   cost: 1
-  blocked: 0
 --- !u!1 &1898215002
 GameObject:
   m_ObjectHideFlags: 0
@@ -25125,9 +24715,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   viewRadius: 3
-  _neighbors: []
+  neighbors: []
   cost: 1
-  blocked: 0
 --- !u!1 &1904940663
 GameObject:
   m_ObjectHideFlags: 0
@@ -25172,9 +24761,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   viewRadius: 3
-  _neighbors: []
+  neighbors: []
   cost: 1
-  blocked: 0
 --- !u!1 &1909143815
 GameObject:
   m_ObjectHideFlags: 0
@@ -25219,9 +24807,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   viewRadius: 3
-  _neighbors: []
+  neighbors: []
   cost: 1
-  blocked: 0
 --- !u!1 &1916831271
 GameObject:
   m_ObjectHideFlags: 0
@@ -25266,9 +24853,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   viewRadius: 3
-  _neighbors: []
+  neighbors: []
   cost: 1
-  blocked: 0
 --- !u!1 &1929242814
 GameObject:
   m_ObjectHideFlags: 0
@@ -25405,9 +24991,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   viewRadius: 3
-  _neighbors: []
+  neighbors: []
   cost: 1
-  blocked: 0
 --- !u!1 &1936059514
 GameObject:
   m_ObjectHideFlags: 0
@@ -25452,9 +25037,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   viewRadius: 3
-  _neighbors: []
+  neighbors: []
   cost: 1
-  blocked: 0
 --- !u!1 &1936744527
 GameObject:
   m_ObjectHideFlags: 0
@@ -25499,9 +25083,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   viewRadius: 3
-  _neighbors: []
+  neighbors: []
   cost: 1
-  blocked: 0
 --- !u!1 &1946888003
 GameObject:
   m_ObjectHideFlags: 0
@@ -25546,9 +25129,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   viewRadius: 3
-  _neighbors: []
+  neighbors: []
   cost: 1
-  blocked: 0
 --- !u!1 &1954708983
 GameObject:
   m_ObjectHideFlags: 0
@@ -25593,9 +25175,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   viewRadius: 3
-  _neighbors: []
+  neighbors: []
   cost: 1
-  blocked: 0
 --- !u!1 &1956743203
 GameObject:
   m_ObjectHideFlags: 0
@@ -25640,9 +25221,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   viewRadius: 3
-  _neighbors: []
+  neighbors: []
   cost: 1
-  blocked: 0
 --- !u!1 &1962000241
 GameObject:
   m_ObjectHideFlags: 0
@@ -25687,9 +25267,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   viewRadius: 3
-  _neighbors: []
+  neighbors: []
   cost: 1
-  blocked: 0
 --- !u!1 &1972870979
 GameObject:
   m_ObjectHideFlags: 0
@@ -25734,9 +25313,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   viewRadius: 3
-  _neighbors: []
+  neighbors: []
   cost: 1
-  blocked: 0
 --- !u!1 &1979628087
 GameObject:
   m_ObjectHideFlags: 0
@@ -25781,9 +25359,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   viewRadius: 3
-  _neighbors: []
+  neighbors: []
   cost: 1
-  blocked: 0
 --- !u!1 &1987774020
 GameObject:
   m_ObjectHideFlags: 0
@@ -25828,9 +25405,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   viewRadius: 3
-  _neighbors: []
+  neighbors: []
   cost: 1
-  blocked: 0
 --- !u!1 &1988399342
 GameObject:
   m_ObjectHideFlags: 0
@@ -25875,9 +25451,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   viewRadius: 3
-  _neighbors: []
+  neighbors: []
   cost: 1
-  blocked: 0
 --- !u!1 &1993831709
 GameObject:
   m_ObjectHideFlags: 0
@@ -25922,9 +25497,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   viewRadius: 3
-  _neighbors: []
+  neighbors: []
   cost: 1
-  blocked: 0
 --- !u!1 &1994357620
 GameObject:
   m_ObjectHideFlags: 0
@@ -26029,9 +25603,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   viewRadius: 3
-  _neighbors: []
+  neighbors: []
   cost: 1
-  blocked: 0
 --- !u!1 &2007079305
 GameObject:
   m_ObjectHideFlags: 0
@@ -26076,9 +25649,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   viewRadius: 3
-  _neighbors: []
+  neighbors: []
   cost: 1
-  blocked: 0
 --- !u!1 &2010770884
 GameObject:
   m_ObjectHideFlags: 0
@@ -26123,9 +25695,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   viewRadius: 3
-  _neighbors: []
+  neighbors: []
   cost: 1
-  blocked: 0
 --- !u!1 &2015062356
 GameObject:
   m_ObjectHideFlags: 0
@@ -26170,9 +25741,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   viewRadius: 3
-  _neighbors: []
+  neighbors: []
   cost: 1
-  blocked: 0
 --- !u!1 &2017775275
 GameObject:
   m_ObjectHideFlags: 0
@@ -26217,9 +25787,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   viewRadius: 3
-  _neighbors: []
+  neighbors: []
   cost: 1
-  blocked: 0
 --- !u!1 &2023104735
 GameObject:
   m_ObjectHideFlags: 0
@@ -26264,9 +25833,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   viewRadius: 3
-  _neighbors: []
+  neighbors: []
   cost: 1
-  blocked: 0
 --- !u!1 &2024095122
 GameObject:
   m_ObjectHideFlags: 0
@@ -26311,9 +25879,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   viewRadius: 3
-  _neighbors: []
+  neighbors: []
   cost: 1
-  blocked: 0
 --- !u!1 &2025587667
 GameObject:
   m_ObjectHideFlags: 0
@@ -26358,9 +25925,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   viewRadius: 3
-  _neighbors: []
+  neighbors: []
   cost: 1
-  blocked: 0
 --- !u!1 &2027428338
 GameObject:
   m_ObjectHideFlags: 0
@@ -26405,9 +25971,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   viewRadius: 3
-  _neighbors: []
+  neighbors: []
   cost: 1
-  blocked: 0
 --- !u!1 &2027581674
 GameObject:
   m_ObjectHideFlags: 0
@@ -26452,9 +26017,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   viewRadius: 3
-  _neighbors: []
+  neighbors: []
   cost: 1
-  blocked: 0
 --- !u!1 &2029840558
 GameObject:
   m_ObjectHideFlags: 0
@@ -26499,9 +26063,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   viewRadius: 3
-  _neighbors: []
+  neighbors: []
   cost: 1
-  blocked: 0
 --- !u!1 &2030521977
 GameObject:
   m_ObjectHideFlags: 0
@@ -26576,9 +26139,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   viewRadius: 3
-  _neighbors: []
+  neighbors: []
   cost: 1
-  blocked: 0
 --- !u!1 &2034502856
 GameObject:
   m_ObjectHideFlags: 0
@@ -26623,9 +26185,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   viewRadius: 3
-  _neighbors: []
+  neighbors: []
   cost: 1
-  blocked: 0
 --- !u!1 &2037551637
 GameObject:
   m_ObjectHideFlags: 0
@@ -26670,9 +26231,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   viewRadius: 3
-  _neighbors: []
+  neighbors: []
   cost: 1
-  blocked: 0
 --- !u!1 &2038245284
 GameObject:
   m_ObjectHideFlags: 0
@@ -26717,9 +26277,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   viewRadius: 3
-  _neighbors: []
+  neighbors: []
   cost: 1
-  blocked: 0
 --- !u!1 &2040454512
 GameObject:
   m_ObjectHideFlags: 0
@@ -26764,9 +26323,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   viewRadius: 3
-  _neighbors: []
+  neighbors: []
   cost: 1
-  blocked: 0
 --- !u!1 &2042488677
 GameObject:
   m_ObjectHideFlags: 0
@@ -26811,9 +26369,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   viewRadius: 3
-  _neighbors: []
+  neighbors: []
   cost: 1
-  blocked: 0
 --- !u!1 &2048976910
 GameObject:
   m_ObjectHideFlags: 0
@@ -26892,9 +26449,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   viewRadius: 3
-  _neighbors: []
+  neighbors: []
   cost: 1
-  blocked: 0
 --- !u!1 &2060346749
 GameObject:
   m_ObjectHideFlags: 0
@@ -26939,9 +26495,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   viewRadius: 3
-  _neighbors: []
+  neighbors: []
   cost: 1
-  blocked: 0
 --- !u!1 &2062602389
 GameObject:
   m_ObjectHideFlags: 0
@@ -26986,9 +26541,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   viewRadius: 3
-  _neighbors: []
+  neighbors: []
   cost: 1
-  blocked: 0
 --- !u!1 &2064670556
 GameObject:
   m_ObjectHideFlags: 0
@@ -27033,9 +26587,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   viewRadius: 3
-  _neighbors: []
+  neighbors: []
   cost: 1
-  blocked: 0
 --- !u!1 &2065494129
 GameObject:
   m_ObjectHideFlags: 0
@@ -27080,9 +26633,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   viewRadius: 3
-  _neighbors: []
+  neighbors: []
   cost: 1
-  blocked: 0
 --- !u!1 &2069930456
 GameObject:
   m_ObjectHideFlags: 0
@@ -27127,9 +26679,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   viewRadius: 3
-  _neighbors: []
+  neighbors: []
   cost: 1
-  blocked: 0
 --- !u!1 &2074470909
 GameObject:
   m_ObjectHideFlags: 0
@@ -27174,9 +26725,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   viewRadius: 3
-  _neighbors: []
+  neighbors: []
   cost: 1
-  blocked: 0
 --- !u!1 &2074681330
 GameObject:
   m_ObjectHideFlags: 0
@@ -27221,9 +26771,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   viewRadius: 3
-  _neighbors: []
+  neighbors: []
   cost: 1
-  blocked: 0
 --- !u!1 &2078526684
 GameObject:
   m_ObjectHideFlags: 0
@@ -27268,9 +26817,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   viewRadius: 3
-  _neighbors: []
+  neighbors: []
   cost: 1
-  blocked: 0
 --- !u!1 &2083858015
 GameObject:
   m_ObjectHideFlags: 0
@@ -27345,9 +26893,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   viewRadius: 3
-  _neighbors: []
+  neighbors: []
   cost: 1
-  blocked: 0
 --- !u!1 &2084632135
 GameObject:
   m_ObjectHideFlags: 0
@@ -27392,9 +26939,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   viewRadius: 3
-  _neighbors: []
+  neighbors: []
   cost: 1
-  blocked: 0
 --- !u!1 &2085430285
 GameObject:
   m_ObjectHideFlags: 0
@@ -27439,9 +26985,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   viewRadius: 3
-  _neighbors: []
+  neighbors: []
   cost: 1
-  blocked: 0
 --- !u!1 &2093990312
 GameObject:
   m_ObjectHideFlags: 0
@@ -27486,9 +27031,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   viewRadius: 3
-  _neighbors: []
+  neighbors: []
   cost: 1
-  blocked: 0
 --- !u!1 &2098335146
 GameObject:
   m_ObjectHideFlags: 0
@@ -27533,9 +27077,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   viewRadius: 3
-  _neighbors: []
+  neighbors: []
   cost: 1
-  blocked: 0
 --- !u!1 &2100322925
 GameObject:
   m_ObjectHideFlags: 0
@@ -27580,9 +27123,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   viewRadius: 3
-  _neighbors: []
+  neighbors: []
   cost: 1
-  blocked: 0
 --- !u!1 &2101977486
 GameObject:
   m_ObjectHideFlags: 0
@@ -27627,9 +27169,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   viewRadius: 3
-  _neighbors: []
+  neighbors: []
   cost: 1
-  blocked: 0
 --- !u!1 &2103551429
 GameObject:
   m_ObjectHideFlags: 0
@@ -27704,9 +27245,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   viewRadius: 3
-  _neighbors: []
+  neighbors: []
   cost: 1
-  blocked: 0
 --- !u!1 &2104843582
 GameObject:
   m_ObjectHideFlags: 0
@@ -27751,9 +27291,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   viewRadius: 3
-  _neighbors: []
+  neighbors: []
   cost: 1
-  blocked: 0
 --- !u!1 &2113276622
 GameObject:
   m_ObjectHideFlags: 0
@@ -27798,9 +27337,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   viewRadius: 3
-  _neighbors: []
+  neighbors: []
   cost: 1
-  blocked: 0
 --- !u!1 &2120352821
 GameObject:
   m_ObjectHideFlags: 0
@@ -27845,9 +27383,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   viewRadius: 3
-  _neighbors: []
+  neighbors: []
   cost: 1
-  blocked: 0
 --- !u!1 &2124101407
 GameObject:
   m_ObjectHideFlags: 0
@@ -27892,9 +27429,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   viewRadius: 3
-  _neighbors: []
+  neighbors: []
   cost: 1
-  blocked: 0
 --- !u!1 &2126321990
 GameObject:
   m_ObjectHideFlags: 0
@@ -27939,9 +27475,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   viewRadius: 3
-  _neighbors: []
+  neighbors: []
   cost: 1
-  blocked: 0
 --- !u!1 &2127783028
 GameObject:
   m_ObjectHideFlags: 0
@@ -27986,9 +27521,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   viewRadius: 3
-  _neighbors: []
+  neighbors: []
   cost: 1
-  blocked: 0
 --- !u!1 &2130353344
 GameObject:
   m_ObjectHideFlags: 0
@@ -28033,9 +27567,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   viewRadius: 3
-  _neighbors: []
+  neighbors: []
   cost: 1
-  blocked: 0
 --- !u!1 &2134997692
 GameObject:
   m_ObjectHideFlags: 0
@@ -28080,9 +27613,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   viewRadius: 3
-  _neighbors: []
+  neighbors: []
   cost: 1
-  blocked: 0
 --- !u!1 &2135392778
 GameObject:
   m_ObjectHideFlags: 0
@@ -28240,9 +27772,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   viewRadius: 3
-  _neighbors: []
+  neighbors: []
   cost: 1
-  blocked: 0
 --- !u!1 &2138418397
 GameObject:
   m_ObjectHideFlags: 0
@@ -28380,6 +27911,5 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   viewRadius: 3
-  _neighbors: []
+  neighbors: []
   cost: 1
-  blocked: 0

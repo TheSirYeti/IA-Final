@@ -5,14 +5,20 @@ using UnityEngine;
 
 public class Leader : Pathfinder
 {
+    [Header("Targets")]
     public Transform goalPosition;
+    
+    [Header("Masks")]
     public LayerMask floorMask;
-    private RaycastHit hit;
     public LayerMask obstacleMask;
     public LayerMask wallMask;
+    private RaycastHit hit;
+    
+    [Header("Stats")]
     public float maxForce;
     public float viewDistance;
 
+    [Header("Bools")]
     public bool isAvoiding;
     public bool isLineOfSight;
     private void Start()
@@ -50,15 +56,15 @@ public class Leader : Pathfinder
                 if (closeNode != -1 && endNode != -1)
                 {
                     nodePath = ConstructPathThetaStar(NodeManager.instance.nodes[closeNode], NodeManager.instance.nodes[endNode]);
+                    currentNode = 0;
                 }
                 isPathfinding = true;
-                
-                Debug.Log("PATH");
+                isLineOfSight = false;
             }
             else
             {
+                isPathfinding = false;
                 isLineOfSight = true;
-                Debug.Log("VOY DIRECTO");
             }
         }
 
@@ -72,7 +78,6 @@ public class Leader : Pathfinder
             Vector3 dir = goalPosition.transform.position - transform.position;
             transform.forward = dir;
             transform.position += transform.forward * speed * Time.fixedDeltaTime;
-            Debug.Log("Me muevo");
             if (dir.magnitude <= 0.1f)
             {
                 isLineOfSight = false;

@@ -15,6 +15,7 @@
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/Assets/0_Scripts/Soldiers/SoldierManager.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/0_Scripts/Extra/ResetScene.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/0_Scripts/Soldiers/Pathfinder.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/0_Scripts/MovementScreen/ObstacleMovement.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/0_Scripts/AI/NodeManager.cs" root0="FORCE_HIGHLIGHTING" />
@@ -73,6 +74,8 @@
       <workItem from="1639433811140" duration="4717000" />
       <workItem from="1639451658417" duration="5710000" />
       <workItem from="1639499145303" duration="19664000" />
+      <workItem from="1639593768883" duration="270000" />
+      <workItem from="1639846046867" duration="3329000" />
     </task>
     <servers />
   </component>

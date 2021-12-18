@@ -8,10 +8,9 @@ using UnityEditor;
 public class Node : MonoBehaviour
 {
     public float viewRadius;
-    public List<Node> _neighbors = new List<Node>();
+    public List<Node> neighbors = new List<Node>();
 
     public int cost = 1;
-    public bool blocked;
 
     private void Start()
     {
@@ -22,20 +21,14 @@ public class Node : MonoBehaviour
                 Vector3 dir = node.transform.position - transform.position;
                 if (!Physics.Raycast(transform.position, dir, viewRadius, NodeManager.instance.wallMask))
                 {
-                    _neighbors.Add(node);
+                    neighbors.Add(node);
                 }
             }
         }
     }
     public List<Node> GetNeighbors()
     {
-        return _neighbors;
-    }
-
-    void ChangeCost(int c)
-    {
-        if (c < 1) c = 1;
-        cost = c;
+        return neighbors;
     }
 
     private void OnDrawGizmos()

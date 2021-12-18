@@ -20,6 +20,7 @@ public class Follower : Pathfinder
     public float separationWeightValue;
     public float alignWeightValue;
     public float cohesionWeightValue;
+    public float avoidWeightValue;
 
     [Header("Field of View")] 
     public LayerMask leaderMask;
@@ -38,7 +39,6 @@ public class Follower : Pathfinder
 
     void Update()
     {
-        
         Vector3 dirToTarget = (seekTarget.transform.position - transform.position);
         if (Physics.Raycast(transform.position, dirToTarget, dirToTarget.magnitude, wallMask) && !isPathfinding)
         {
@@ -52,7 +52,7 @@ public class Follower : Pathfinder
             Gizmos.color = Color.green;
         }
 
-        if (Physics.OverlapSphere(transform.position, viewDistance / 3, obstacleMask).Length > 0)
+        if (Physics.OverlapSphere(transform.position, viewDistance / avoidWeightValue, obstacleMask).Length > 0)
         {
             isAvoiding = true;
         }
@@ -64,14 +64,6 @@ public class Follower : Pathfinder
         TakeAction();
     }
 
-    
-    Vector3 Seek(Vector3 target)
-    {
-        Vector3 desired = (target - transform.position).normalized * maxSpeed;
-        Vector3 steering = Vector3.ClampMagnitude(desired - velocity, maxForce);
-        return steering;
-    }
-    
     void TakeAction()
     {
         if (isFollowing && !isAvoiding)
@@ -252,44 +244,12 @@ public class Follower : Pathfinder
         return steering;
     }
     
-    void FieldOfView()
+    Vector3 Seek(Vector3 target)
     {
-        Collider[] targetsInViewRadius = Physics.OverlapSphere(transform.position, viewDistance, leaderMask);
-        
-        foreach (var item in targetsInViewRadius)
-        {
-            Vector3 dirToTarget = (item.transform.position - transform.position);
-            
-            if (Vector3.Angle(transform.forward, dirToTarget.normalized) < viewDistance / 2)
-            {
-                if(Physics.Raycast(transform.position, dirToTarget, dirToTarget.magnitude, wallMask) && dirToTarget.magnitude < viewDistance)
-                {
-                    Debug.Log("NO LO VEO");
-                    if (!isRerouting) {
-                        Debug.Log("BUSCO CAMINO");
-                        isRerouting = true;
-                        isFollowing = false;
-
-                        int closeNode = NodeManager.instance.GetClosestNode(transform);
-                        int endNode = NodeManager.instance.GetClosestNode(seekTarget.transform);
-                            
-                        if (closeNode != -1 && endNode != -1)
-                        {
-                            nodePath = ConstructPathThetaStar(NodeManager.instance.nodes[closeNode], NodeManager.instance.nodes[endNode]);
-                        }
-                    }
-                }
-                else if(Physics.Raycast(transform.position, dirToTarget, dirToTarget.magnitude, leaderMask) && dirToTarget.magnitude < viewDistance)
-                {
-                    Debug.Log("LO VOLVI A VER");
-                    isFollowing = true;
-                    isRerouting = false;
-                }
-            }
-        }
-        
+        Vector3 desired = (target - transform.position).normalized * maxSpeed;
+        Vector3 steering = Vector3.ClampMagnitude(desired - velocity, maxForce);
+        return steering;
     }
-    
     
     void ApplyForce(Vector3 force)
     {
